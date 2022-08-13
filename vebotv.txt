@@ -4,4 +4,4 @@
 https://livestream-2.socialstreaming.tv/live/62f7cbfc478ad4001c74b93b/62f7cbfc478ad4001c74b93b.m3u8
 
 #EXTINF:-1, VeboTV2
-https://179720687.global.cdnfastest.com/live/may11/chunklist.m3u8|Referer=https://vebotv.site/
+https://livestream-2.socialstreaming.tv/live/62f7cce478437b001cff373a/62f7cce478437b001cff373a.m3u8
