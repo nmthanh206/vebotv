@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, VeboTV
-https://livestream-2.socialstreaming.tv/live/62f7cbfc478ad4001c74b93b/62f7cbfc478ad4001c74b93b.m3u8
+https://livestream-2.socialstreaming.tv/live/62f90936478ad4001c74b99e/62f90936478ad4001c74b99e.m3u8
 
 #EXTINF:-1, VeboTV2
 https://livestream-2.socialstreaming.tv/live/62f7cce478437b001cff373a/62f7cce478437b001cff373a.m3u8
