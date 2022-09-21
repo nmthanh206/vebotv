@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, VeboTV
-https://livestream.socialstreaming.tv/live/6314b6d273aec7001dbb5c29/6314b6d273aec7001dbb5c29.m3u8
-
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/chunklist.m3u8|referer=https://mitom.90phut6.live/
 #EXTINF:-1, VeboTV2
 https://livestream.socialstreaming.tv/live/6314b5fa8fd2dc001d5c1f74/6314b5fa8fd2dc001d5c1f74.m3u8
