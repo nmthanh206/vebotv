@@ -3,4 +3,4 @@
 #EXTINF:-1, VeboTV
 https://1093384063.cdn.khmer-hd.com/live/chunks.m3u8|referer=https://vebotv.pro/
 #EXTINF:-1, VeboTV2
-https://179672673.global.cdnfastest.com/live/live/chunklist.m3u8|referer=https://vebotv.pro/
+https://1093384063.cdn.khmer-hd.com/may111/chunks.m3u8|referer=https://vebotv.pro/
