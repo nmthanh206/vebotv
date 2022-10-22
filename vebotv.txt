@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, VeboTV
-https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://vebotv.cc/
+https://1093384063.cdn.khmer-hd.com/may3FHD/chunks.m3u8|referer=https://vebotv.cc/
 #EXTINF:-1, VeboTV2
 https://179672673.global.cdnfastest.com/live/may10/chunklist.m3u8|referer=https://vebotv.cc/
