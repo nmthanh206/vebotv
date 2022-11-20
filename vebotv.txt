@@ -6,3 +6,17 @@ https://vod.vidsugar.com/d91db83066a670fab2b2ff2fcbf54a08/chunklist.m3u8
 https://179672673.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer=https://vebotv.biz/
 #EXTINF:-1, VeboTV2
 https://179672673.global.cdnfastest.com/live/may111/chunklist.m3u8|referer=https://vebotv.biz/
+
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd-fpt" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png", VTV6 FPT
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd-htv" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png", VTV6 VTVCab
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd-sctv" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png", VTV6 SCTV
+
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/sd2/index.m3u8|Referer=https://sctvonline.vn/
+
