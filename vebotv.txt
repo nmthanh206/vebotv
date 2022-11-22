@@ -3,7 +3,7 @@
 #EXTINF:-1, VeboTV
 https://vod.vidsugar.com/d91db83066a670fab2b2ff2fcbf54a08/chunklist.m3u8
 #EXTINF:-1, VeboTV2
-https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://vebotv.biz/
+https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://vebotv.biz/
 #EXTINF:-1, VeboTV2
 https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://vebotv.biz/
 
