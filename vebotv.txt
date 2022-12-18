@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, VeboTV
-https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer= https://player.4shares.live/
+https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer=https://player.4shares.live/
 #EXTINF:-1, VeboTV2
-https://179314182.global.cdnfastest.com/live/may2FHD/playlist.m3u8|referer= https://player.4shares.live/
+https://179314182.global.cdnfastest.com/live/may2FHD/playlist.m3u8|referer=https://player.4shares.live/
 #EXTINF:-1, VeboTV2
 https://179314182.global.cdnfastest.com/live/may1FHD/playlist.m3u8|referer=https://player.4shares.live/
 
