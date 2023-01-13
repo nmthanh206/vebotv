@@ -1,12 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1, VeboTV
-https://179314182.global.cdnfastest.com/live/may1456FHD/chunklist.m3u8|referer=https://player.4shares.live/
+https://obevcimanyd179314182.thapcam.link/live/may020FHD/chunklist.m3u8
 #EXTINF:-1, VeboTV2
 https://obevcimanyd179314182.thapcam.link/live/may020FHD/chunklist.m3u8
 #EXTINF:-1, VeboTV2
 https://179314182.global.cdnfastest.com/live/may1FHD/playlist.m3u8|referer=https://player.4shares.live/
-
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv6hd-fpt" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png", VTV6 FPT
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
