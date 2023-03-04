@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, VeboTV
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
+https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8
 #EXTINF:-1, VeboTV22
 https://obevcimanyd179314182.thapcam.link/live/may022FHD/chunklist.m3u8
 #EXTINF:-1, VeboTV26
