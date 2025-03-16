@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1, VeboTV
-https://m10.ldplayer.xyz/v11/?link=https%3A%2F%2Fhotlivezz179536519.akainu.xyz%2Flive%2FphoHD.flv%3Fexpire%3D1742155800%26sign%3D15b2f7133be9917330706a7b8d083bc9&id=MOOldF4&n=HD%20Nhanh&t=1&theme_id=vebotv&c=XzA9zXh&df=https%3A%2F%2Fhotlivezz179602324.akainu.xyz%2FPn-RNGESGIXwCee14yecbw%2FFv2lucGIbhPi2caWYvF5Lg%2F1742155800425%2Flive%2FphoHD%2Fplaylist.m3u8
+https://m10.ldplayer.xyz/v11/?link=https%3A%2F%2Fhotlivezz179536519.akainu.xyz%2Flive%2FphoHD.flv%3Fexpire%3D1742156205%26sign%3D0616cd19f7ed0b6f461b59d073635c5d&id=MOOldF4&n=HD%20Nhanh&t=1&theme_id=vebotv&c=XzA9zXh&df=https%3A%2F%2Fhotlivezz179602324.akainu.xyz%2FR6B_yZ0HhMwfQ2WczI7SQw%2FFv2lucGIbhPi2caWYvF5Lg%2F1742156205697%2Flive%2FphoHD%2Fplaylist.m3u8
+
 #EXTINF:-1, VeboTV22
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
 #EXTINF:-1, VeboTV26
