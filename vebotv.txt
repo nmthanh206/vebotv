@@ -2,4 +2,4 @@
 #EXTINF:-1, 1
 https://live.inplyr.com/room/327159.m3u8
 #EXTINF:-1, 2
-https://tftl0gr4nhct1gwzdepjqgr5dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=394eb8845296b35168c24b742cedb418&wsABSTime=1771750672&wsSession=6ba391da96d79a0ff4a6ba01-177170747431029&wsIPSercert=c9a303b51d20230614ca946077da1306&wsiphost=local&wsBindIP=1
+https://tftl0gr4nhct1gwzdepjqgr5dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8
