@@ -1,38 +1,3 @@
 #EXTM3U
 #EXTINF:-1, VeboTV
-https://m10.ldplayer.xyz/v11/?link=https%3A%2F%2Fhotlivezz179536519.akainu.xyz%2Flive%2FphoHD.flv%3Fexpire%3D1742156205%26sign%3D0616cd19f7ed0b6f461b59d073635c5d&id=MOOldF4&n=HD%20Nhanh&t=1&theme_id=vebotv&c=XzA9zXh&df=https%3A%2F%2Fhotlivezz179602324.akainu.xyz%2FR6B_yZ0HhMwfQ2WczI7SQw%2FFv2lucGIbhPi2caWYvF5Lg%2F1742156205697%2Flive%2FphoHD%2Fplaylist.m3u8
-
-#EXTINF:-1, VeboTV22
-https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
-#EXTINF:-1, VeboTV26
-https://obevcimanyd179314182.thapcam.link/live/may026FHD/chunklist.m3u8
-#EXTINF:-1, VeboTV31
-https://obevcimanyd179314182.thapcam.link/live/may031FHD/chunklist.m3u8
-#EXTINF:-1, VeboTV45
-https://obevcimanyd179314182.thapcam.link/live/may045FHD/chunklist.m3u8
-#EXTINF:-1, VeboTVmay3
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8
-#EXTINF:-1, VeboTVvit
-https://obevcimanyd179314182.thapcam.link/live/vitFHD/chunklist.m3u8
-#EXTINF:-1, VeboTVold
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
-#EXTINF:-1, VeboTV133
-https://obevcimanyd179314182.thapcam.link/live/may133FHD/chunklist.m3u8
-#EXTINF:-1, VeboTV91
-https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8
-#EXTINF:-1, VeboTVnen
-https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8
-#EXTINF:-1, Vebotvmay1
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd-fpt" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png", VTV6 FPT
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd-htv" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png", VTV6 VTVCab
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd-sctv" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png", VTV6 SCTV
-
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/sd2/index.m3u8|Referer=https://sctvonline.vn/
-
+https://live.inplyr.com/room/327159.m3u8
