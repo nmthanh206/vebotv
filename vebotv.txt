@@ -3,3 +3,5 @@
 https://live.inplyr.com/room/327159.m3u8
 #EXTINF:-1, 2
 https://tftl0gr4nhct1gwzdepjqgr5dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8
+#EXTINF:-1, 3
+https://live.inplyr.com/room/118206.m3u8
