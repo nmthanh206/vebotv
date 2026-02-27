@@ -13,5 +13,5 @@ https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
 https://s6.kkphimplayer6.com/20260131/CbHjy8Qm/index.m3u8
 #EXTINF:-1, Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/index.m3u8
-#EXTINF:-1, a
-https://vip.opstream90.com/20260226/25948_3824ab9a/index.m3u8
+#EXTINF:-1, Quỷ ăn tạng 1
+https://s3.phim1280.tv/20240411/VjV5ECNY/index.m3u8
