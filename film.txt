@@ -11,6 +11,8 @@ https://s6.kkphimplayer6.com/20250901/2RZvePPZ/index.m3u8
 https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
 #EXTINF:-1, Tử Chiến Trên Không
 https://s6.kkphimplayer6.com/20260131/CbHjy8Qm/index.m3u8
+#EXTINF:-1, Thám Tử Kiên
+https://s6.kkphimplayer6.com/20251010/86AEDncn/index.m3u8
 #EXTINF:-1, Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/index.m3u8
 #EXTINF:-1, Quỷ ăn tạng 1
