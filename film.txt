@@ -23,3 +23,5 @@ https://s3.phim1280.tv/20240411/VjV5ECNY/index.m3u8
 https://s6.kkphimplayer6.com/20251014/94by8arW/index.m3u8
 #EXTINF:-1, Tee Yod: Quỷ ăn tạng 3
 https://vip.opstream90.com/20260205/24057_678548c3/index.m3u8
+#EXTINF:-1, Nhà gia tiên
+https://s6.kkphimplayer6.com/20250710/0Du10Bcc/index.m3u8
