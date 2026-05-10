@@ -2,7 +2,7 @@
 #EXTINF:-1, 1
 https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=70e433f9e11e918493a46f1a300a6948&wsABSTime=1778470452
 #EXTINF:-1, 2
-https://live2.pro2cdnlive.com/live/channel1.m3u8
+https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1, 3
 https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001778427786-0-0-74ac4ff41f062549e309919209769de6
 #EXTINF:-1, 4
