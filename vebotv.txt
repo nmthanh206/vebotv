@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, 1
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=70e433f9e11e918493a46f1a300a6948&wsABSTime=1778470452
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=a82425d74ba61968fd4d98975a24f9b8&wsABSTime=1778478174
 #EXTINF:-1, 2
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1, 3
