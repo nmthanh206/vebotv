@@ -2,3 +2,10 @@
 
 #EXTINF:-1,Channel 1
 https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780157195-0-0-356f926040e7487aa7d815178630d3bb|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel1&Origin=https://xl365.buzzscorelinez.com
+#EXTINF:-1,Channel 2
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780157195-0-0-356f926040e7487aa7d815178630d3bb|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel1&Origin=https://xl365.buzzscorelinez.com&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Channel 1",Channel 3
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
+#EXTVLCOPT:http-origin=https://xl365.buzzscorelinez.com
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780157195-0-0-356f926040e7487aa7d815178630d3bb
+
