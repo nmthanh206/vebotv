@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1, 1
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1, 2
-https://yvm80526.edgfmaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1,Channel 12
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel12
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001780156759-0-0-f990b7823075d163bf95648baec36492
 #EXTINF:-1, 3
 https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001778427786-0-0-74ac4ff41f062549e309919209769de6
 #EXTINF:-1, 4
