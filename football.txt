@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1, 1
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782054279-0-0-b3a89205575003206b9d7f59d83f95d1|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
+#EXTINF:-1, 2
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782053451-0-0-426f946cc74bef1051d8bda434b40e91
