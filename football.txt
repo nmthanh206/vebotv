@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1",Channel 1
-https://live2.pro2cdnlive.com/live/channel1.m3u8|Referer=https://xl365.buzzscorelinez.com/&Origin=https://xl365.buzzscorelinez.com
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782053451-0-0-426f946cc74bef1051d8bda434b40e91|referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
