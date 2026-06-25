@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Channel 1
 https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001782403549-0-0-f20cc8ff69a45f70340a0463dd509fd1|Referer=https://xlz.buzzscorelinez.com
+#EXTINF:-1,Channel 2
+https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001782403549-0-0-f20cc8ff69a45f70340a0463dd509fd1|Referer=https://xlz.buzzscorelinez.com
