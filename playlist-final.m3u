@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTGRP:Video
+#EXTINF:-1 group-title="Video",Full Match: Paraguay vs Australia (09:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/ednm9whw0pp3ryo-max.mp4
+#EXTINF:-1 group-title="Video",Full Match: Thổ Nhĩ Kỳ vs USA (09:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/3glrw7hnp45zqdy-brady.mp4
+#EXTINF:-1 group-title="Video",Full Match: Tunisia vs Hà Lan (06:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/y0or5jh8ow55qwz-max.mp4
+#EXTINF:-1 group-title="Video",Full Match: Nhật Bản vs Thụy Điển (06:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/4wyrn4h6l51dq86-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: Curacao vs Bờ Biển Ngà (03:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/k82rekhgxjdzrep-nick.mp4
+#EXTINF:-1 group-title="Video",Full Match: Ecuador vs Đức (03:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/3glrw7hnpg97qdy-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: Nam Phi vs Hàn Quốc (08:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/3glrw7hnpgg7qdy-brady.mp4
+#EXTINF:-1 group-title="Video",Full Match: CH Séc vs Mexico (08:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/l7oqdehg3jz7r51-nick.mp4
+#EXTINF:-1 group-title="Video",Full Match: Scotland vs Brazil (05:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/2y8m4zh5pe7nql0-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: Ma Rốc vs Haiti (05:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/zp5rzghgwdd9q82-max.mp4
+#EXTINF:-1 group-title="Video",Full Match: Thụy Sĩ vs Canada (02:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/8yomo4h14yokq0j-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: Bosnia-Herzegovina vs Qatar (02:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/y0or5jh8oww5qwz-max.mp4
+
+#EXTGRP:Highlight
+#EXTINF:-1 group-title="Highlight",Thổ Nhĩ Kỳ vs USA (09:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782448456535/index.m3u8
+#EXTINF:-1 group-title="Highlight",Paraguay vs Australia (09:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782448565432/index.m3u8
+#EXTINF:-1 group-title="Highlight",Nhật Bản vs Thụy Điển (06:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782437795240/index.m3u8
+#EXTINF:-1 group-title="Highlight",Tunisia vs Hà Lan (06:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782438010150/index.m3u8
+#EXTINF:-1 group-title="Highlight",Ecuador vs Đức (03:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782427176243/index.m3u8
+#EXTINF:-1 group-title="Highlight",Curacao vs Bờ Biển Ngà (03:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782427570743/index.m3u8
+#EXTINF:-1 group-title="Highlight",Nam Phi vs Hàn Quốc (08:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782358977888/index.m3u8
+#EXTINF:-1 group-title="Highlight",CH Séc vs Mexico (08:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782359082872/index.m3u8
+#EXTINF:-1 group-title="Highlight",Scotland vs Brazil (05:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782359253072/index.m3u8
+#EXTINF:-1 group-title="Highlight",Ma Rốc vs Haiti (05:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782348600016/index.m3u8
+#EXTINF:-1 group-title="Highlight",Bosnia-Herzegovina vs Qatar (02:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782336114392/index.m3u8
+#EXTINF:-1 group-title="Highlight",Thụy Sĩ vs Canada (02:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782336448467/index.m3u8
+#EXTINF:-1 group-title="Highlight",Colombia vs DR Congo (09:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782278376289/index.m3u8
+#EXTINF:-1 group-title="Highlight",Panama vs Croatia (06:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782265256829/index.m3u8
+#EXTINF:-1 group-title="Highlight",Anh vs Ghana (03:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/23/1782253545868/index.m3u8
+#EXTINF:-1 group-title="Highlight",Bồ Đào Nha vs Uzbekistan (00:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/23/1782243278620/index.m3u8
+#EXTINF:-1 group-title="Highlight",Na Uy vs Senegal (07:00 – 23/06)
+https://highlight.thuckhuya1.net/2026/06/23/1782181859709/index.m3u8
+#EXTINF:-1 group-title="Highlight",Argentina vs Áo (00:00 – 23/06)
+https://highlight.thuckhuya1.net/2026/06/22/1782156952782/index.m3u8
+#EXTINF:-1 group-title="Highlight",Uruguay vs Cabo Verde (05:00 – 22/06)
+https://highlight.thuckhuya1.net/2026/06/22/1782088231667/index.m3u8
+#EXTINF:-1 group-title="Highlight",Bỉ vs Iran (02:00 – 22/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782077378193/index.m3u8
+#EXTINF:-1 group-title="Highlight",Tây Ban Nha vs Ả Rập Xê Út (23:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782067222988/index.m3u8
+#EXTINF:-1 group-title="Highlight",Tunisia vs Nhật Bản (11:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782023859984/index.m3u8
+#EXTINF:-1 group-title="Highlight",Ecuador vs Curacao (07:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782008763643/index.m3u8
+#EXTINF:-1 group-title="Highlight",Đức vs Bờ Biển Ngà (03:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781995143542/index.m3u8
+#EXTINF:-1 group-title="Highlight",Hà Lan vs Thụy Điển (00:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781995190504/index.m3u8
+#EXTINF:-1 group-title="Highlight",Thổ Nhĩ Kỳ vs Paraguay (10:00 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781934608504/index.m3u8
+#EXTINF:-1 group-title="Highlight",Brazil vs Haiti (07:30 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781934600659/index.m3u8
+#EXTINF:-1 group-title="Highlight",Scotland vs Ma Rốc (05:00 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781934594675/index.m3u8
+#EXTINF:-1 group-title="Highlight",USA vs Australia (02:00 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/19/1781905481982/index.m3u8
+
