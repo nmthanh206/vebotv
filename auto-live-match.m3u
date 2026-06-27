@@ -1,42 +1,34 @@
 #EXTM3U
 
-#EXTGRP:Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026
-#EXTINF:-1 group-title="Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026",Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026 - HD ROY
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782517338-0-0-a32e4304b2ac62e503cabd0abe338b7d|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
-#EXTINF:-1 group-title="Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026",Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026 - HD NICK
-https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782517346-0-0-dd18578e280d3dd86de5cc38e10b66e2|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel5
-#EXTINF:-1 group-title="Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026",Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026 - HD RIO
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782517354-0-0-948252a9d2462eec39720cd1c7814973|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel16
-#EXTINF:-1 group-title="Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026",Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026 - HD POLO
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782517363-0-0-f88aeffa8cb83cb104840b470a6e4a3f|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel10
+#EXTGRP:Panama vs Anh lúc 04:00 ngày 28/06/2026
+#EXTINF:-1 group-title="Panama vs Anh lúc 04:00 ngày 28/06/2026",Panama vs Anh lúc 04:00 ngày 28/06/2026 - HD MAX
+https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001782582432-0-0-61696bf82a5c883c0cceef6a7019a1be|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel6
+#EXTINF:-1 group-title="Panama vs Anh lúc 04:00 ngày 28/06/2026",Panama vs Anh lúc 04:00 ngày 28/06/2026 - HD FILIP
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782582440-0-0-f4f2154ae98c0d6864cc6613dc75b891|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel19
 
-#EXTGRP:Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026
-#EXTINF:-1 group-title="Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026",Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026 - HD ASTRA
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782517373-0-0-7254c453784795c0ef6362188fcc203a|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel11
-#EXTINF:-1 group-title="Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026",Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026 - HD TOM
-https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001782517381-0-0-e9d76c84cb66c703f2ba0b2fe52c6ef8|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel4
-#EXTINF:-1 group-title="Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026",Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026 - HD BEE
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001782517390-0-0-228dacf6c8b85eb2a680d5129e26df51|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel8
-#EXTINF:-1 group-title="Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026",Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026 - HD TAGE
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782517400-0-0-3850cf76b75af7a4f34ac4fb3bd72c11|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel27
+#EXTGRP:Croatia vs Ghana lúc 04:00 ngày 28/06/2026
+#EXTINF:-1 group-title="Croatia vs Ghana lúc 04:00 ngày 28/06/2026",Croatia vs Ghana lúc 04:00 ngày 28/06/2026 - HD ASTRA
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782582452-0-0-552f035b96237cc91a1cd9c321e4306d|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel11
+#EXTINF:-1 group-title="Croatia vs Ghana lúc 04:00 ngày 28/06/2026",Croatia vs Ghana lúc 04:00 ngày 28/06/2026 - HD KEN
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001782582462-0-0-5f694357792edafcfa92612dd33a0a35|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel18
 
-#EXTGRP:New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026
-#EXTINF:-1 group-title="New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026",New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026 - HD MAX
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001782517410-0-0-b8e2443caffc86715458e3987ff0b055|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel6
-#EXTINF:-1 group-title="New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026",New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026 - HD HIRO
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001782517419-0-0-ea99ac98548596f7f98891ce75fb8001|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel14
-#EXTINF:-1 group-title="New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026",New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026 - HD TONI
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001782517428-0-0-4ffc88d4ca8fdc59c37d9d3a1a7bd197|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel9
-#EXTINF:-1 group-title="New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026",New Zealand vs Bỉ lúc 10:00 ngày 27/06/2026 - HD OLER
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782517438-0-0-aca9a27c6ee30961002e92c7cbfed690|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel28
+#EXTGRP:Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026
+#EXTINF:-1 group-title="Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026",Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026 - HD ROY
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782582471-0-0-0bc6ffd061868a26c63c100aacc22968|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
+#EXTINF:-1 group-title="Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026",Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026 - HD NICK
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782582480-0-0-f4bbab2df6c12b04442deeeb8b2ebf7c|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel5
 
-#EXTGRP:Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026
-#EXTINF:-1 group-title="Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026",Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026 - HD BRADY
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001782517449-0-0-3b14c80c3ab36fc42a3f0e18d1202039|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel15
-#EXTINF:-1 group-title="Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026",Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026 - HD RIO
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782517459-0-0-acbbbb81d509d45c9883b15226b2486c|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel16
-#EXTINF:-1 group-title="Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026",Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026 - HD XMEN
-https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001782517468-0-0-ed32ea673c69b1560c2b421f325bd49e|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel13
-#EXTINF:-1 group-title="Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026",Ai Cập  vs Iran lúc 10:00 ngày 27/06/2026 - HD BEE
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001782517477-0-0-a549badd33d2f1ff8a96748b36632d35|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel8
+#EXTGRP:Jordan vs Argentina lúc 09:00 ngày 28/06/2026
+#EXTINF:-1 group-title="Jordan vs Argentina lúc 09:00 ngày 28/06/2026",Jordan vs Argentina lúc 09:00 ngày 28/06/2026 - HD ROY
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782582490-0-0-b78038e15011fd9c34e036147ee37e0d|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
+#EXTINF:-1 group-title="Jordan vs Argentina lúc 09:00 ngày 28/06/2026",Jordan vs Argentina lúc 09:00 ngày 28/06/2026 - HD NICK
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782582510-0-0-38c1d1fbd1bd78ac2627974c61169e41|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel5
+
+#EXTGRP:TPS Turku vs Jaro lúc 23:00 ngày 27/06/2026
+#EXTINF:-1 group-title="TPS Turku vs Jaro lúc 23:00 ngày 27/06/2026",TPS Turku vs Jaro lúc 23:00 ngày 27/06/2026 - HD BEE
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001782582520-0-0-3237fcc8e057d9b848308ff1207ac000|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel8/off-tvc
+
+#EXTGRP:Gnistan Helsinki vs Vaasa VPS lúc 23:00 ngày 27/06/2026
+#EXTINF:-1 group-title="Gnistan Helsinki vs Vaasa VPS lúc 23:00 ngày 27/06/2026",Gnistan Helsinki vs Vaasa VPS lúc 23:00 ngày 27/06/2026 - HD NEMO
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782582523-0-0-1f5ebe78bad70c5fe9c1d5c0fea00f1e|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel17/off-tvc
 
