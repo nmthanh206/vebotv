@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTGRP:Croatia vs Ghana lúc 04:00 ngày 28/06/2026
-#EXTINF:-1 group-title="Croatia vs Ghana lúc 04:00 ngày 28/06/2026",Croatia vs Ghana lúc 04:00 ngày 28/06/2026 - HD ASTRA
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782580280-0-0-ff129d7ba5cbf5e4fe1fc8b5803a6528|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel11
-
-#EXTGRP:Panama vs Anh lúc 04:00 ngày 28/06/2026
-#EXTINF:-1 group-title="Panama vs Anh lúc 04:00 ngày 28/06/2026",Panama vs Anh lúc 04:00 ngày 28/06/2026 - HD MAX
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001782580288-0-0-e3db0f2682aa28c6b84e927b46711d5b|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel6
-
-#EXTGRP:Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026
-#EXTINF:-1 group-title="Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026",Colombia vs Bồ Đào Nha lúc 06:30 ngày 28/06/2026 - HD ROY
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782580296-0-0-bc6105521687e3621ffdcd5e170d5507|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
-
-#EXTGRP:Jordan vs Argentina lúc 09:00 ngày 28/06/2026
-#EXTINF:-1 group-title="Jordan vs Argentina lúc 09:00 ngày 28/06/2026",Jordan vs Argentina lúc 09:00 ngày 28/06/2026 - HD ROY
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782580307-0-0-b2300fda1ca993d6a8f58b82c900a207|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
-
-#EXTGRP:FK Kaspyi Aktau vs FK Atyrau lúc 22:00 ngày 27/06/2026
-#EXTINF:-1 group-title="FK Kaspyi Aktau vs FK Atyrau lúc 22:00 ngày 27/06/2026",FK Kaspyi Aktau vs FK Atyrau lúc 22:00 ngày 27/06/2026 - HD TAGE
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782580316-0-0-2c7e9af14c8da778384bfac87469af28|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel27/off-tvc
-
-#EXTGRP:FK Csikszereda vs Győri ETO FC lúc 22:25 ngày 27/06/2026
-#EXTINF:-1 group-title="FK Csikszereda vs Győri ETO FC lúc 22:25 ngày 27/06/2026",FK Csikszereda vs Győri ETO FC lúc 22:25 ngày 27/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel39.flv?wsSecret=74054010d50af5e8245814b26591bde0&wsABSTime=1782623520|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/7/link/channel39/off-tvc
+#EXTINF:-1,fc-milsami-vs-zimbru-chisinau-luc-0000-ngay-28-06-2026
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=a2bef4cbce9afa761f2a6b50f1061ae0&wsABSTime=1782627616|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/7/link/channel9/off-tvc
 
