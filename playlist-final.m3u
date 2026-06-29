@@ -1,6 +1,30 @@
 #EXTM3U
 
 #EXTGRP:Video
+#EXTINF:-1 group-title="Video",Full Match: Nam Phi vs Canada (02:00 – 29/06)
+https://video.apisportpulse.com/2026/06/29/318q66hxg8xxqo9-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: Algeria vs Áo (09:00 – 28/06)
+https://video.apisportpulse.com/2026/06/28/y0or5jh8owdpqwz-johan.mp4
+#EXTINF:-1 group-title="Video",Full Match: Jordan vs Argentina (09:00 – 28/06)
+https://video.apisportpulse.com/2026/06/28/4wyrn4h6l55dq86-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: DR Congo vs Uzbekistan (06:30 – 28/06)
+https://video.apisportpulse.com/2026/06/28/zp5rzghgwde8q82-silva.mp4
+#EXTINF:-1 group-title="Video",Full Match: Colombia vs Bồ Đào Nha (06:30 – 28/06)
+https://video.apisportpulse.com/2026/06/28/l7oqdehg3991r51-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: Croatia vs Ghana (04:00 – 28/06)
+https://video.apisportpulse.com/2026/06/28/ednm9whw0p49ryo-astra.mp4
+#EXTINF:-1 group-title="Video",Full Match: Panama vs Anh (04:00 – 28/06)
+https://video.apisportpulse.com/2026/06/28/8yomo4h1466xq0j-max.mp4
+#EXTINF:-1 group-title="Video",Full Match: Ai Cập  vs Iran (10:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/l7oqdehg39z1r51-brady.mp4
+#EXTINF:-1 group-title="Video",Full Match: New Zealand vs Bỉ (10:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/zp5rzghgwdo9q82-max.mp4
+#EXTINF:-1 group-title="Video",Full Match: Cabo Verde vs Ả Rập Xê Út (07:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/x7lm7phj72dxm2w-astra.mp4
+#EXTINF:-1 group-title="Video",Full Match: Uruguay vs Tây Ban Nha (07:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/ednm9whw0po3ryo-roy.mp4
+#EXTINF:-1 group-title="Video",Full Match: Senegal vs Iraq (02:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/3glrw7hnpgeeqdy-astra.mp4
 #EXTINF:-1 group-title="Video",Full Match: Algeria vs Áo (09:00 – 28/06)
 https://video.apisportpulse.com/2026/06/28/y0or5jh8owdpqwz-johan.mp4
 #EXTINF:-1 group-title="Video",Full Match: Jordan vs Argentina (09:00 – 28/06)
@@ -123,6 +147,46 @@ https://video.apisportpulse.com/2026/06/17/vjxm8ghew7o6r6o-max.mp4
 https://video.apisportpulse.com/2026/06/17/318q66hxg33oqo9-roy.mp4
 
 #EXTGRP:Highlight
+#EXTINF:-1 group-title="Highlight",Nam Phi vs Canada (02:00 – 29/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782682733988/index.m3u8
+#EXTINF:-1 group-title="Highlight",Jordan vs Argentina (09:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782621775138/index.m3u8
+#EXTINF:-1 group-title="Highlight",Algeria vs Áo (09:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782622088877/index.m3u8
+#EXTINF:-1 group-title="Highlight",Colombia vs Bồ Đào Nha (06:30 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782621132701/index.m3u8
+#EXTINF:-1 group-title="Highlight",DR Congo vs Uzbekistan (06:30 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782621623842/index.m3u8
+#EXTINF:-1 group-title="Highlight",Panama vs Anh (04:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782602140525/index.m3u8
+#EXTINF:-1 group-title="Highlight",Croatia vs Ghana (04:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782602173761/index.m3u8
+#EXTINF:-1 group-title="Highlight",New Zealand vs Bỉ (10:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782538267786/index.m3u8
+#EXTINF:-1 group-title="Highlight",Ai Cập  vs Iran (10:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782538341480/index.m3u8
+#EXTINF:-1 group-title="Highlight",Uruguay vs Tây Ban Nha (07:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782527717040/index.m3u8
+#EXTINF:-1 group-title="Highlight",Cabo Verde vs Ả Rập Xê Út (07:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782527836205/index.m3u8
+#EXTINF:-1 group-title="Highlight",Na Uy vs Pháp (02:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782509900989/index.m3u8
+#EXTINF:-1 group-title="Highlight",Senegal vs Iraq (02:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782510030192/index.m3u8
+#EXTINF:-1 group-title="Highlight",Thổ Nhĩ Kỳ vs USA (09:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782448456535/index.m3u8
+#EXTINF:-1 group-title="Highlight",Paraguay vs Australia (09:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782448565432/index.m3u8
+#EXTINF:-1 group-title="Highlight",Nhật Bản vs Thụy Điển (06:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782437795240/index.m3u8
+#EXTINF:-1 group-title="Highlight",Tunisia vs Hà Lan (06:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782438010150/index.m3u8
+#EXTINF:-1 group-title="Highlight",Ecuador vs Đức (03:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782427176243/index.m3u8
+#EXTINF:-1 group-title="Highlight",Curacao vs Bờ Biển Ngà (03:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782427570743/index.m3u8
+#EXTINF:-1 group-title="Highlight",Nam Phi vs Hàn Quốc (08:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782358977888/index.m3u8
 #EXTINF:-1 group-title="Highlight",Jordan vs Argentina (09:00 – 28/06)
 https://highlight.thuckhuya1.net/2026/06/28/1782621775138/index.m3u8
 #EXTINF:-1 group-title="Highlight",Algeria vs Áo (09:00 – 28/06)
