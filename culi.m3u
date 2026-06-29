@@ -1,0 +1,90 @@
+#EXTM3U
+
+#EXTGRP:hoiquan
+#EXTINF:-1 group-title="hoiquan",Al Nejmeh vs Racing - BLV PHAN PHÉP (FHD) [VĐQG Latvia]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Al Nejmeh vs Racing - BLV PHAN PHÉP (HD) [VĐQG Latvia]
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Al Nejmeh vs Racing - BLV PHAN PHÉP (SD) [VĐQG Latvia]
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (FHD) [World Cup]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (HD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (SD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (FHD) [World Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (HD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (SD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (FHD) [World Cup]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (HD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (SD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (FHD) [Suomen Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (HD) [Suomen Cup]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (SD) [Suomen Cup]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (FHD) [Virsliga]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (HD) [Virsliga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (SD) [Virsliga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Rublev A. vs Safiullin R. - BLV PHAN BỐNG (FHD) [Wimbledon]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Rublev A. vs Safiullin R. - BLV PHAN BỐNG (HD) [Wimbledon]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Rublev A. vs Safiullin R. - BLV PHAN BỐNG (SD) [Wimbledon]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
+#EXTGRP:video
+#EXTINF:-1 group-title="video",Full Match: Ai Cập  vs Iran (10:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/l7oqdehg39z1r51-brady.mp4
+#EXTINF:-1 group-title="video",Full Match: New Zealand vs Bỉ (10:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/zp5rzghgwdo9q82-max.mp4
+#EXTINF:-1 group-title="video",Full Match: Uruguay vs Tây Ban Nha (07:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/ednm9whw0po3ryo-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Cabo Verde vs Ả Rập Xê Út (07:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/x7lm7phj72dxm2w-astra.mp4
+#EXTINF:-1 group-title="video",Full Match: Senegal vs Iraq (02:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/3glrw7hnpgeeqdy-astra.mp4
+#EXTINF:-1 group-title="video",Full Match: Na Uy vs Pháp (02:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/k82rekhgxjjzrep-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Paraguay vs Australia (09:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/ednm9whw0pp3ryo-max.mp4
+#EXTINF:-1 group-title="video",Full Match: Thổ Nhĩ Kỳ vs USA (09:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/3glrw7hnp45zqdy-brady.mp4
+#EXTINF:-1 group-title="video",Full Match: Nhật Bản vs Thụy Điển (06:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/4wyrn4h6l51dq86-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Tunisia vs Hà Lan (06:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/y0or5jh8ow55qwz-max.mp4
+#EXTINF:-1 group-title="video",Full Match: Curacao vs Bờ Biển Ngà (03:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/k82rekhgxjdzrep-nick.mp4
+#EXTINF:-1 group-title="video",Full Match: Ecuador vs Đức (03:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/3glrw7hnpg97qdy-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Nam Phi vs Hàn Quốc (08:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/3glrw7hnpgg7qdy-brady.mp4
+#EXTINF:-1 group-title="video",Full Match: CH Séc vs Mexico (08:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/l7oqdehg3jz7r51-nick.mp4
+#EXTINF:-1 group-title="video",Full Match: Scotland vs Brazil (05:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/2y8m4zh5pe7nql0-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Ma Rốc vs Haiti (05:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/zp5rzghgwdd9q82-max.mp4
+#EXTINF:-1 group-title="video",Full Match: Thụy Sĩ vs Canada (02:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/8yomo4h14yokq0j-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Bosnia-Herzegovina vs Qatar (02:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/y0or5jh8oww5qwz-max.mp4
+
+#EXTGRP:tieulam
+#EXTINF:-1 group-title="tieulam",CS Sagesse - Tadamon SC Sour
+https://lilive1.eu.cc/live/60764799cb6f7f46177053409e99a1bc/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Al Nejmeh SC - Racing Beirut
+https://lilive1.eu.cc/live/05e0142edd5481ebd58547d60c080a89/playlist.m3u8
+
