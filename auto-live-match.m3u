@@ -1,14 +1,10 @@
 #EXTM3U
 
-#EXTGRP:Jordan vs Argentina lúc 09:00 ngày 28/06/2026
-#EXTINF:-1 group-title="Jordan vs Argentina lúc 09:00 ngày 28/06/2026",Jordan vs Argentina lúc 09:00 ngày 28/06/2026 - HD ROY
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782612880-0-0-2508d75d0edd9f53c5fc943c8b1d0d6f|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1/off-tvc
-#EXTINF:-1 group-title="Jordan vs Argentina lúc 09:00 ngày 28/06/2026",Jordan vs Argentina lúc 09:00 ngày 28/06/2026 - HD NICK
-https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782612884-0-0-5f8173c541c4c079b6756dbb4f66da43|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel5/off-tvc
+#EXTGRP:Nữ Hà Nội vs Nữ Hồ Chí Minh lúc 16:00 ngày 29/06/2026
+#EXTINF:-1 group-title="Nữ Hà Nội vs Nữ Hồ Chí Minh lúc 16:00 ngày 29/06/2026",Nữ Hà Nội vs Nữ Hồ Chí Minh lúc 16:00 ngày 29/06/2026 - HD XMEN
+https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001782725295-0-0-0fbb1cc88b1a462a7904e763a6204b07|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel13/off-tvc
 
-#EXTGRP:Algeria vs Áo lúc 09:00 ngày 28/06/2026
-#EXTINF:-1 group-title="Algeria vs Áo lúc 09:00 ngày 28/06/2026",Algeria vs Áo lúc 09:00 ngày 28/06/2026 - HD JOHAN
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001782612888-0-0-81fb9ab9c05a1101941487bb83425538|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel12/off-tvc
-#EXTINF:-1 group-title="Algeria vs Áo lúc 09:00 ngày 28/06/2026",Algeria vs Áo lúc 09:00 ngày 28/06/2026 - HD HIRO
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001782612892-0-0-1a5e596335b197251db61ef00d5d2d01|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel14/off-tvc
+#EXTGRP:Nữ Yangon United vs Nữ Thitsar Arman lúc 16:00 ngày 29/06/2026
+#EXTINF:-1 group-title="Nữ Yangon United vs Nữ Thitsar Arman lúc 16:00 ngày 29/06/2026",Nữ Yangon United vs Nữ Thitsar Arman lúc 16:00 ngày 29/06/2026 - HD 1
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=3064aac68e051c861fefd642047bb4b3&wsABSTime=1782768504|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/7/link/channel20/off-tvc
 
