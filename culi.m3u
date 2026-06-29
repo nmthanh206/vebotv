@@ -37,12 +37,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (SD) [Virsliga]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Rublev A. vs Safiullin R. - BLV PHAN BỐNG (FHD) [Wimbledon]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Rublev A. vs Safiullin R. - BLV PHAN BỐNG (HD) [Wimbledon]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Rublev A. vs Safiullin R. - BLV PHAN BỐNG (SD) [Wimbledon]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTGRP:video
 #EXTINF:-1 group-title="video",Full Match: Ai Cập  vs Iran (10:00 – 27/06)
@@ -83,8 +77,12 @@ https://video.apisportpulse.com/2026/06/25/8yomo4h14yokq0j-roy.mp4
 https://video.apisportpulse.com/2026/06/25/y0or5jh8oww5qwz-max.mp4
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",CS Sagesse - Tadamon SC Sour
-https://lilive1.eu.cc/live/60764799cb6f7f46177053409e99a1bc/playlist.m3u8
 #EXTINF:-1 group-title="tieulam",Al Nejmeh SC - Racing Beirut
 https://lilive1.eu.cc/live/05e0142edd5481ebd58547d60c080a89/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Brazil - Japan
+https://lilive1.eu.cc/live/4b67cc71fbe0141c76a6e0f26ae248e8/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Croatia U19 - Ukraine U19
+https://lilive1.eu.cc/live/6d4c582c46dd312b7c9522421103b3bf/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Germany - Paraguay
+https://lilive1.eu.cc/live/61c562af26b200a668debbcf8188e6cd/playlist.m3u8
 
