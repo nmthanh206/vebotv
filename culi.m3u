@@ -1,52 +1,36 @@
 #EXTM3U
 
 #EXTGRP:xoilac
-#EXTINF:-1 group-title="xoilac",Brazil vs Nhật Bản lúc 00:00 ngày 30/06/2026 - HD ROY
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782753794-0-0-00106da0b67e0b232e1eeb7fc0eaf610|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1/off-tvc
-#EXTINF:-1 group-title="xoilac",Brazil vs Nhật Bản lúc 00:00 ngày 30/06/2026 - HD NICK
-https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782753798-0-0-9f780612f340db5be3271e082f92fe28|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel5/off-tvc
-#EXTINF:-1 group-title="xoilac",Brazil vs Nhật Bản lúc 00:00 ngày 30/06/2026 - HD MAX
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001782753801-0-0-c36336ff89764e81bdb5318d75eaffad|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel6/off-tvc
-#EXTINF:-1 group-title="xoilac",Brazil vs Nhật Bản lúc 00:00 ngày 30/06/2026 - HD RIO
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782753807-0-0-517512bcfa90057bbe332a7048ce4278|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel16/off-tvc
+#EXTINF:-1 group-title="xoilac",Hà Lan vs Ma Rốc lúc 08:00 ngày 30/06/2026 - HD BRADY
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001782778594-0-0-2cd21aed52cdb911ec9a0fe5b921b8ba|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel15
+#EXTINF:-1 group-title="xoilac",Hà Lan vs Ma Rốc lúc 08:00 ngày 30/06/2026 - HD TOM
+https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001782778603-0-0-9838234f64ba6c787ff09b6275e524db|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel4
 
 #EXTGRP:hoiquan
-#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (FHD) [World Cup]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (HD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (SD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (FHD) [World Cup]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (HD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (SD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (FHD) [World Cup]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (HD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (SD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (FHD) [Suomen Cup]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (HD) [Suomen Cup]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (SD) [Suomen Cup]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (FHD) [Virsliga]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (HD) [Virsliga]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (SD) [Virsliga]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (FHD) [Suomen Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (HD) [Suomen Cup]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (SD) [Suomen Cup]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV THẦN THÔNG (FHD) [World Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV THẦN THÔNG (HD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV THẦN THÔNG (SD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",Brazil - Japan
-https://lilive1.eu.cc/live/4b67cc71fbe0141c76a6e0f26ae248e8/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Croatia U19 - Ukraine U19
-https://lilive1.eu.cc/live/6d4c582c46dd312b7c9522421103b3bf/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Germany - Paraguay
-https://lilive1.eu.cc/live/61c562af26b200a668debbcf8188e6cd/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Union Espanola - Colo Colo
+https://lilive1.eu.cc/live/891df7b2a9fadd577bf6c47c46568a7d/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Netherlands - Morocco
+https://lilive1.eu.cc/live/e92385f06c44650c48579201aabea54c/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Deren FC - Khangarid FC
+https://lilive1.eu.cc/live/fc6fce353103b005869b795176057bdc/playlist.m3u8
 
