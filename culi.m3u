@@ -1,6 +1,12 @@
 #EXTM3U
 
 #EXTGRP:video
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Screenshot-2026-06-30-114707-768x510.png",Full Match: Hà Lan vs Ma Rốc (08:00 – 30/06)
+https://video.apisportpulse.com/2026/06/30/4wyrn4h6ly6wq86-brady.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Anh-chup-man-hinh-2026-06-30-035633-768x502.png",Full Match: Đức vs Paraguay (03:30 – 30/06)
+https://video.apisportpulse.com/2026/06/30/dn1m1ghl09l9moe-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/photo_2026-06-29_23-28-09-1-768x512.jpg",Full Match: Brazil vs Nhật Bản (00:00 – 30/06)
+https://video.apisportpulse.com/2026/06/30/l5ergph48k47r8k-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Screenshot-2026-06-29-040837.png",Full Match: Nam Phi vs Canada (02:00 – 29/06)
 https://video.apisportpulse.com/2026/06/29/318q66hxg8xxqo9-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/photo_2026-06-28_08-16-47-1-768x533.jpg",Full Match: Algeria vs Áo (09:00 – 28/06)
@@ -183,14 +189,14 @@ https://video.apisportpulse.com/2026/06/05/23xmvkh6l6oyqg8-ken.mp4
 https://video.apisportpulse.com/2026/06/04/jw2r09hkgzv1rz8-brady.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Algeria-1-1-768x511.jpg",Full Match: Hà Lan vs Algeria (01:45 – 04/06)
 https://video.apisportpulse.com/2026/06/04/k82rekhg2xy1rep-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Screenshot-2026-06-30-114707-768x510.png",Full Match: Hà Lan vs Ma Rốc (08:00 – 30/06)
-https://video.apisportpulse.com/2026/06/30/4wyrn4h6ly6wq86-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Anh-chup-man-hinh-2026-06-30-035633-768x502.png",Full Match: Đức vs Paraguay (03:30 – 30/06)
-https://video.apisportpulse.com/2026/06/30/dn1m1ghl09l9moe-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/photo_2026-06-29_23-28-09-1-768x512.jpg",Full Match: Brazil vs Nhật Bản (00:00 – 30/06)
-https://video.apisportpulse.com/2026/06/30/l5ergph48k47r8k-roy.mp4
 
 #EXTGRP:highlight
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Screenshot-2026-06-30-114707.png",Hà Lan vs Ma Rốc (08:00 &#8211; 30/06) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/06/30/1782796452925/index.m3u8
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Anh-chup-man-hinh-2026-06-30-035633.png",Đức vs Paraguay (03:30 &#8211; 30/06) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/06/30/1782779916458/index.m3u8
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/photo_2026-06-29_23-28-09-1.jpg",Brazil vs Nhật Bản (00:00 &#8211; 30/06) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/06/29/1782762011799/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Screenshot-2026-06-29-040837.png",Nam Phi vs Canada (02:00 &#8211; 29/06) | Xem lại trận đấu
 https://highlight.thuckhuya1.net/2026/06/28/1782682733988/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/photo_2026-06-28_08-03-11-1-1.jpg",Jordan vs Argentina (09:00 &#8211; 28/06) | Xem lại trận đấu
@@ -383,88 +389,58 @@ https://highlight.thuckhuya1.net/2026/06/01/1780294194360/index.m3u8
 https://highlight.thuckhuya1.net/2026/06/01/1780257032195/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/05/Arsenal-1-1-1-5.jpg",PSG vs Arsenal (23:00 &#8211; 30/05) | Xem lại trận đấu
 https://highlight.thuckhuya1.net/2026/05/31/1780218347473/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Screenshot-2026-06-30-114707.png",Hà Lan vs Ma Rốc (08:00 &#8211; 30/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/30/1782796452925/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/Anh-chup-man-hinh-2026-06-30-035633.png",Đức vs Paraguay (03:30 &#8211; 30/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/30/1782779916458/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilacyyw.cc/2026/06/photo_2026-06-29_23-28-09-1.jpg",Brazil vs Nhật Bản (00:00 &#8211; 30/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/29/1782762011799/index.m3u8
 
 #EXTGRP:xoilac
-#EXTINF:-1 group-title="xoilac",An Giang U21 vs Tây Ninh U21 lúc 14:30 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=daeba7c67aaf5da5501795e70bd335ba&wsABSTime=1782852267|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel5/off-tvc
-#EXTINF:-1 group-title="xoilac",Đồng Nai U21 vs Cần Thơ U21 lúc 14:30 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=91917668e8cff0c085626aeba5d549e8&wsABSTime=1782852273|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel16/off-tvc
-#EXTINF:-1 group-title="xoilac",FC Ulaanbaatar vs Central Stallions lúc 15:00 ngày 30/06/2026 - HD POLO
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782809079-0-0-3eddcf45343bb56b5353a4778fc59590|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel10/off-tvc
-#EXTINF:-1 group-title="xoilac",TP HCM U21 vs HAGL U21 lúc 15:00 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=3292e0579c3e5fa71a23ba166f8b0ecf&wsABSTime=1782852284|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel31/off-tvc
-#EXTINF:-1 group-title="xoilac",Logan Lightning U23 vs Redlands United U23 lúc 15:30 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=08038aeb2f395b76fd3b22852c9618ab&wsABSTime=1782852291|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel10/off-tvc
-#EXTINF:-1 group-title="xoilac",Viettel FC U21 vs Hà Nội U21 lúc 15:30 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=f375b9eb9ac8b77cdbf0dddeed803102&wsABSTime=1782852297|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel11/off-tvc
-#EXTINF:-1 group-title="xoilac",PVF Việt Nam U21 vs Hà Nội Bulls U21 lúc 15:30 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=e8d7854be4b7e719f602af42d6dab6f0&wsABSTime=1782852303|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel30/off-tvc
-#EXTINF:-1 group-title="xoilac",Ninh Bình U21 vs SLNA U21 lúc 15:55 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=4f5ef340691e0015e6631913616ba1e3&wsABSTime=1782852307|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel12/off-tvc
-#EXTINF:-1 group-title="xoilac",Nữ Hà Nội II vs Nữ Hồ Chí Minh 2 lúc 16:00 ngày 30/06/2026 - HD FILIP
-https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782809111-0-0-a38b8c3bf2d8eb3d7ebeed918df407a6|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel19/off-tvc
-#EXTINF:-1 group-title="xoilac",Nữ PP Hà Nam vs Nữ Than KSVN lúc 16:00 ngày 30/06/2026 - HD KEN
-https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001782809116-0-0-12058888951f82bb6713ead84e049d39|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel18/off-tvc
-#EXTINF:-1 group-title="xoilac",Nữ Estonia U17 vs Nữ Faroe Islands U17 lúc 16:00 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=f06d034c1a6f341c34ce8daf8e0e71f6&wsABSTime=1782852322|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel3/off-tvc
-#EXTINF:-1 group-title="xoilac",FC Sochi vs SKA Khabarovsk lúc 18:00 ngày 30/06/2026 - HD 1
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=d9b9b54396b6ba5d1c87b007a2919a1c&wsABSTime=1782852327|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel8/off-tvc
+#EXTINF:-1 group-title="xoilac",Brazil vs Nhật Bản lúc 00:00 ngày 30/06/2026 - HD ROY
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782750339-0-0-230e48b2f1148616e60308b8d3e607ed|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
+#EXTINF:-1 group-title="xoilac",Brazil vs Nhật Bản lúc 00:00 ngày 30/06/2026 - HD NICK
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782750346-0-0-c16cc1b692af17469b3f41b9eac36b42|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel5
 
 #EXTGRP:hoiquan
-#EXTINF:-1 group-title="hoiquan",Tukums vs Super Nova - BLV PHAN CA (FHD) [Virsliga]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Tukums vs Super Nova - BLV PHAN CA (HD) [Virsliga]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Tukums vs Super Nova - BLV PHAN CA (SD) [Virsliga]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",HJK Helsinki vs Ilves - BLV TÁO GIÀ (FHD) [Suomen Cup]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",HJK Helsinki vs Ilves - BLV TÁO GIÀ (HD) [Suomen Cup]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",HJK Helsinki vs Ilves - BLV TÁO GIÀ (SD) [Suomen Cup]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV LƯƠNG BỔNG (FHD) [World Cup]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV LƯƠNG BỔNG (HD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV LƯƠNG BỔNG (SD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV PHAN QUẨY (FHD) [World Cup]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV PHAN QUẨY (HD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV PHAN QUẨY (SD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV THẦN THÔNG (FHD) [World Cup]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV THẦN THÔNG (HD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",England vs Congo DR - BLV THẦN THÔNG (SD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Phong Phu Ha Nam W vs TKS Viet Nam W - BLV PHAN PHÉP (FHD) [V.league]
+#EXTINF:-1 group-title="hoiquan",Al Nejmeh vs Racing - BLV PHAN PHÉP (FHD) [VĐQG Latvia]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Phong Phu Ha Nam W vs TKS Viet Nam W - BLV PHAN PHÉP (HD) [V.league]
+#EXTINF:-1 group-title="hoiquan",Al Nejmeh vs Racing - BLV PHAN PHÉP (HD) [VĐQG Latvia]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Phong Phu Ha Nam W vs TKS Viet Nam W - BLV PHAN PHÉP (SD) [V.league]
+#EXTINF:-1 group-title="hoiquan",Al Nejmeh vs Racing - BLV PHAN PHÉP (SD) [VĐQG Latvia]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",U. Catolica vs Everton de Vina - BLV PHAN ANH (FHD) [Copa Chile]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",U. Catolica vs Everton de Vina - BLV PHAN ANH (HD) [Copa Chile]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",U. Catolica vs Everton de Vina - BLV PHAN ANH (SD) [Copa Chile]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (FHD) [World Cup]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (HD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Brazil vs Japan - BLV PHAN QUẨY (SD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (FHD) [World Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (HD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Germany vs Paraguay - BLV THẦN THÔNG (SD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (FHD) [World Cup]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (HD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Netherlands vs Morocco - BLV PHAN MÃ (SD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (FHD) [Suomen Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (HD) [Suomen Cup]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",VPS vs Inter Turku - BLV TÁO GIÀ (SD) [Suomen Cup]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (FHD) [Virsliga]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (HD) [Virsliga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",FK Liepaja vs Ogre United - BLV PHAN CA (SD) [Virsliga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",Phong Phu Ha Nam Women - Than KSVN Women
-https://lilive1.eu.cc/live/dbdb38a6ff8a39acd8f09c0609a43aee/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Logan Lightning - Redlands United FC
-https://lilive1.eu.cc/live/72d6889af322a8586585f8cf3aecd87e/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Deren FC - Khangarid FC
-https://lilive1.eu.cc/live/fc6fce353103b005869b795176057bdc/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Italy U19 - Serbia U19
+https://lilive1.eu.cc/live/def7d7081e0f12a8b77136aeb35c8930/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Brazil - Japan
+https://lilive1.eu.cc/live/4b67cc71fbe0141c76a6e0f26ae248e8/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Croatia U19 - Ukraine U19
+https://lilive1.eu.cc/live/6d4c582c46dd312b7c9522421103b3bf/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Germany - Paraguay
+https://lilive1.eu.cc/live/61c562af26b200a668debbcf8188e6cd/playlist.m3u8
 
