@@ -1,182 +1,310 @@
 #EXTM3U
 
 #EXTGRP:video
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/07/photo_2026-07-02_06-04-18-1-768x531.jpg",Full Match: USA vs Bosnia-Herzegovina (07:00 – 02/07)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/photo_2026-07-02_06-04-18-1-768x531.jpg",Full Match: USA vs Bosnia-Herzegovina (07:00 – 02/07)
 https://video.apisportpulse.com/2026/07/02/8yomo4h14y1dq0j-nick.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/07/photo_2026-07-02_02-54-26-2-768x512.jpg",Full Match: Bỉ vs Senegal (03:00 – 02/07)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/photo_2026-07-02_02-54-26-2-768x512.jpg",Full Match: Bỉ vs Senegal (03:00 – 02/07)
 https://video.apisportpulse.com/2026/07/02/6ypq3nhvnkv2md7-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/07/photo_2026-07-01_21-54-00-1-768x478.jpg",Full Match: Anh vs DR Congo (23:00 – 01/07)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/photo_2026-07-01_21-54-00-1-768x478.jpg",Full Match: Anh vs DR Congo (23:00 – 01/07)
 https://video.apisportpulse.com/2026/07/01/2y8m4zh5pv5oql0-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/07/Screenshot-2026-07-01-114308-768x506.png",Full Match: Mexico vs Ecuador (09:00 – 01/07)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/Screenshot-2026-07-01-114308-768x506.png",Full Match: Mexico vs Ecuador (09:00 – 01/07)
 https://video.apisportpulse.com/2026/07/01/dj2ryohlx7l6q1z-nick.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/07/Screenshot-2026-07-01-031919-1-768x459.png",Full Match: Pháp vs Thụy Điển (04:00 – 01/07)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/Screenshot-2026-07-01-031919-1-768x459.png",Full Match: Pháp vs Thụy Điển (04:00 – 01/07)
 https://video.apisportpulse.com/2026/07/01/jw2r09hk05kdrz8-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/07/Screenshot-2026-07-01-033155-768x427.png",Full Match: Bờ Biển Ngà vs Na Uy (00:00 – 01/07)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/Screenshot-2026-07-01-033155-768x427.png",Full Match: Bờ Biển Ngà vs Na Uy (00:00 – 01/07)
 https://video.apisportpulse.com/2026/07/01/l7oqdehg3jgkr51-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-30-114707-768x510.png",Full Match: Hà Lan vs Ma Rốc (08:00 – 30/06)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.stojo.co/2026/06/Screenshot-2026-06-30-114707-768x510.png",Full Match: Hà Lan vs Ma Rốc (08:00 – 30/06)
 https://video.apisportpulse.com/2026/06/30/4wyrn4h6ly6wq86-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Anh-chup-man-hinh-2026-06-30-035633-768x502.png",Full Match: Đức vs Paraguay (03:30 – 30/06)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.stojo.co/2026/06/Anh-chup-man-hinh-2026-06-30-035633-768x502.png",Full Match: Đức vs Paraguay (03:30 – 30/06)
 https://video.apisportpulse.com/2026/06/30/dn1m1ghl09l9moe-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-29_23-28-09-1-768x512.jpg",Full Match: Brazil vs Nhật Bản (00:00 – 30/06)
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.stojo.co/2026/06/photo_2026-06-29_23-28-09-1-768x512.jpg",Full Match: Brazil vs Nhật Bản (00:00 – 30/06)
 https://video.apisportpulse.com/2026/06/30/l5ergph48k47r8k-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-29-040837.png",Full Match: Nam Phi vs Canada (02:00 – 29/06)
+#EXTINF:-1 group-title="video",Full Match: Nam Phi vs Canada (02:00 – 29/06)
 https://video.apisportpulse.com/2026/06/29/318q66hxg8xxqo9-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-28_08-03-11-1-1-768x512.jpg",Full Match: Jordan vs Argentina (09:00 – 28/06)
-https://video.apisportpulse.com/2026/06/28/4wyrn4h6l55dq86-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-28_08-16-47-1-768x533.jpg",Full Match: Algeria vs Áo (09:00 – 28/06)
+#EXTINF:-1 group-title="video",Full Match: Algeria vs Áo (09:00 – 28/06)
 https://video.apisportpulse.com/2026/06/28/y0or5jh8owdpqwz-johan.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/BDN.png",Full Match: Colombia vs Bồ Đào Nha (06:30 – 28/06)
-https://video.apisportpulse.com/2026/06/28/l7oqdehg3991r51-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-28_08-36-20-1-768x512.jpg",Full Match: DR Congo vs Uzbekistan (06:30 – 28/06)
+#EXTINF:-1 group-title="video",Full Match: Jordan vs Argentina (09:00 – 28/06)
+https://video.apisportpulse.com/2026/06/28/4wyrn4h6l55dq86-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: DR Congo vs Uzbekistan (06:30 – 28/06)
 https://video.apisportpulse.com/2026/06/28/zp5rzghgwde8q82-silva.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/ANH-1-768x537.png",Full Match: Panama vs Anh (04:00 – 28/06)
-https://video.apisportpulse.com/2026/06/28/8yomo4h1466xq0j-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Ghana-4-768x505.png",Full Match: Croatia vs Ghana (04:00 – 28/06)
+#EXTINF:-1 group-title="video",Full Match: Colombia vs Bồ Đào Nha (06:30 – 28/06)
+https://video.apisportpulse.com/2026/06/28/l7oqdehg3991r51-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Croatia vs Ghana (04:00 – 28/06)
 https://video.apisportpulse.com/2026/06/28/ednm9whw0p49ryo-astra.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-27_09-08-39-1-768x513.jpg",Full Match: New Zealand vs Bỉ (10:00 – 27/06)
-https://video.apisportpulse.com/2026/06/27/zp5rzghgwdo9q82-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-27_09-16-15-1.jpg",Full Match: Ai Cập  vs Iran (10:00 – 27/06)
+#EXTINF:-1 group-title="video",Full Match: Panama vs Anh (04:00 – 28/06)
+https://video.apisportpulse.com/2026/06/28/8yomo4h1466xq0j-max.mp4
+#EXTINF:-1 group-title="video",Full Match: Ai Cập  vs Iran (10:00 – 27/06)
 https://video.apisportpulse.com/2026/06/27/l7oqdehg39z1r51-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/CABO-VERDE.png",Full Match: Cabo Verde vs Ả Rập Xê Út (07:00 – 27/06)
+#EXTINF:-1 group-title="video",Full Match: New Zealand vs Bỉ (10:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/zp5rzghgwdo9q82-max.mp4
+#EXTINF:-1 group-title="video",Full Match: Cabo Verde vs Ả Rập Xê Út (07:00 – 27/06)
 https://video.apisportpulse.com/2026/06/27/x7lm7phj72dxm2w-astra.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Tay-ban-nha.png",Full Match: Uruguay vs Tây Ban Nha (07:00 – 27/06)
+#EXTINF:-1 group-title="video",Full Match: Uruguay vs Tây Ban Nha (07:00 – 27/06)
 https://video.apisportpulse.com/2026/06/27/ednm9whw0po3ryo-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-27-042752-768x497.png",Full Match: Na Uy vs Pháp (02:00 – 27/06)
-https://video.apisportpulse.com/2026/06/27/k82rekhgxjjzrep-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/IRAQ-768x528.png",Full Match: Senegal vs Iraq (02:00 – 27/06)
+#EXTINF:-1 group-title="video",Full Match: Senegal vs Iraq (02:00 – 27/06)
 https://video.apisportpulse.com/2026/06/27/3glrw7hnpgeeqdy-astra.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-26_07-59-10-1-1-1-768x480.jpg",Full Match: Thổ Nhĩ Kỳ vs USA (09:00 – 26/06)
-https://video.apisportpulse.com/2026/06/26/3glrw7hnp45zqdy-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-26_08-00-05-1-1-768x512.jpg",Full Match: Paraguay vs Australia (09:00 – 26/06)
+#EXTINF:-1 group-title="video",Full Match: Na Uy vs Pháp (02:00 – 27/06)
+https://video.apisportpulse.com/2026/06/27/k82rekhgxjjzrep-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Paraguay vs Australia (09:00 – 26/06)
 https://video.apisportpulse.com/2026/06/26/ednm9whw0pp3ryo-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/THUY-DIEN-768x549.png",Full Match: Nhật Bản vs Thụy Điển (06:00 – 26/06)
+#EXTINF:-1 group-title="video",Full Match: Thổ Nhĩ Kỳ vs USA (09:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/3glrw7hnp45zqdy-brady.mp4
+#EXTINF:-1 group-title="video",Full Match: Nhật Bản vs Thụy Điển (06:00 – 26/06)
 https://video.apisportpulse.com/2026/06/26/4wyrn4h6l51dq86-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/HA-LAN-768x518.png",Full Match: Tunisia vs Hà Lan (06:00 – 26/06)
+#EXTINF:-1 group-title="video",Full Match: Tunisia vs Hà Lan (06:00 – 26/06)
 https://video.apisportpulse.com/2026/06/26/y0or5jh8ow55qwz-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/DUC-768x535.png",Full Match: Ecuador vs Đức (03:00 – 26/06)
-https://video.apisportpulse.com/2026/06/26/3glrw7hnpg97qdy-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/CURACAO-768x505.png",Full Match: Curacao vs Bờ Biển Ngà (03:00 – 26/06)
+#EXTINF:-1 group-title="video",Full Match: Curacao vs Bờ Biển Ngà (03:00 – 26/06)
 https://video.apisportpulse.com/2026/06/26/k82rekhgxjdzrep-nick.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-25_07-03-01-1-768x527.jpg",Full Match: CH Séc vs Mexico (08:00 – 25/06)
-https://video.apisportpulse.com/2026/06/25/l7oqdehg3jz7r51-nick.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-25_07-13-45-1-768x482.jpg",Full Match: Nam Phi vs Hàn Quốc (08:00 – 25/06)
+#EXTINF:-1 group-title="video",Full Match: Ecuador vs Đức (03:00 – 26/06)
+https://video.apisportpulse.com/2026/06/26/3glrw7hnpg97qdy-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Nam Phi vs Hàn Quốc (08:00 – 25/06)
 https://video.apisportpulse.com/2026/06/25/3glrw7hnpgg7qdy-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-072937-768x489.png",Full Match: Scotland vs Brazil (05:00 – 25/06)
-https://video.apisportpulse.com/2026/06/25/2y8m4zh5pe7nql0-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-074432-768x499.png",Full Match: Ma Rốc vs Haiti (05:00 – 25/06)
+#EXTINF:-1 group-title="video",Full Match: CH Séc vs Mexico (08:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/l7oqdehg3jz7r51-nick.mp4
+#EXTINF:-1 group-title="video",Full Match: Ma Rốc vs Haiti (05:00 – 25/06)
 https://video.apisportpulse.com/2026/06/25/zp5rzghgwdd9q82-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-042036-768x504.png",Full Match: Bosnia-Herzegovina vs Qatar (02:00 – 25/06)
-https://video.apisportpulse.com/2026/06/25/y0or5jh8oww5qwz-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-042253-768x505.png",Full Match: Thụy Sĩ vs Canada (02:00 – 25/06)
+#EXTINF:-1 group-title="video",Full Match: Scotland vs Brazil (05:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/2y8m4zh5pe7nql0-roy.mp4
+#EXTINF:-1 group-title="video",Full Match: Thụy Sĩ vs Canada (02:00 – 25/06)
 https://video.apisportpulse.com/2026/06/25/8yomo4h14yokq0j-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/980901b4-b26b-40ac-a3ce-4c2b4de04c9c-1-768x512.jpg",Full Match: Colombia vs DR Congo (09:00 – 24/06)
+#EXTINF:-1 group-title="video",Full Match: Bosnia-Herzegovina vs Qatar (02:00 – 25/06)
+https://video.apisportpulse.com/2026/06/25/y0or5jh8oww5qwz-max.mp4
+#EXTINF:-1 group-title="video",Full Match: Colombia vs DR Congo (09:00 – 24/06)
 https://video.apisportpulse.com/2026/06/24/23xmvkh60lzeqg8-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-24-081221-768x511.png",Full Match: Panama vs Croatia (06:00 – 24/06)
+#EXTINF:-1 group-title="video",Full Match: Panama vs Croatia (06:00 – 24/06)
 https://video.apisportpulse.com/2026/06/24/4jwq2ghn95j4m0v-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-24-052359-768x527.png",Full Match: Anh vs Ghana (03:00 – 24/06)
+#EXTINF:-1 group-title="video",Full Match: Anh vs Ghana (03:00 – 24/06)
 https://video.apisportpulse.com/2026/06/24/2y8m4zh5peenql0-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-24-021144-768x509.png",Full Match: Bồ Đào Nha vs Uzbekistan (00:00 – 24/06)
+#EXTINF:-1 group-title="video",Full Match: Bồ Đào Nha vs Uzbekistan (00:00 – 24/06)
 https://video.apisportpulse.com/2026/06/24/jw2r09hk0ggwrz8-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/82d72aa7-1ba1-422b-8250-ace83f326e78-1-768x482.jpg",Full Match: Jordan vs Algeria (10:00 – 23/06)
+#EXTINF:-1 group-title="video",Full Match: Jordan vs Algeria (10:00 – 23/06)
 https://video.apisportpulse.com/2026/06/23/x7lm7phj72dym2w-johan.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-23-091227-768x496.png",Full Match: Na Uy vs Senegal (07:00 – 23/06)
+#EXTINF:-1 group-title="video",Full Match: Na Uy vs Senegal (07:00 – 23/06)
 https://video.apisportpulse.com/2026/06/23/pxwrxlhy30w0ryk-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-23-075728-768x516.png",Full Match: Pháp vs Iraq (04:00 – 23/06)
+#EXTINF:-1 group-title="video",Full Match: Pháp vs Iraq (04:00 – 23/06)
 https://video.apisportpulse.com/2026/06/23/y39mp1h64eo7moj-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-23-015759-768x502.png",Full Match: Argentina vs Áo (00:00 – 23/06)
+#EXTINF:-1 group-title="video",Full Match: Argentina vs Áo (00:00 – 23/06)
 https://video.apisportpulse.com/2026/06/23/dn1m1ghl0ggemoe-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-22_06-59-11-1-768x534.jpg",Full Match: New Zealand vs Ai Cập  (08:00 – 22/06)
+#EXTINF:-1 group-title="video",Full Match: New Zealand vs Ai Cập  (08:00 – 22/06)
 https://video.apisportpulse.com/2026/06/22/jw2r09hk0gdwrz8-astra.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-22-071436-768x496.png",Full Match: Uruguay vs Cabo Verde (05:00 – 22/06)
+#EXTINF:-1 group-title="video",Full Match: Uruguay vs Cabo Verde (05:00 – 22/06)
 https://video.apisportpulse.com/2026/06/22/vjxm8ghew7oer6o-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-22-042844-768x530.png",Full Match: Bỉ vs Iran (02:00 – 22/06)
+#EXTINF:-1 group-title="video",Full Match: Bỉ vs Iran (02:00 – 22/06)
 https://video.apisportpulse.com/2026/06/22/23xmvkh60l2zqg8-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-22-013838-1-768x507.png",Full Match: Tây Ban Nha vs Ả Rập Xê Út (23:00 – 21/06)
+#EXTINF:-1 group-title="video",Full Match: Tây Ban Nha vs Ả Rập Xê Út (23:00 – 21/06)
 https://video.apisportpulse.com/2026/06/21/4jwq2ghn95w2m0v-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/6930df78-1246-4208-9aa7-0838ff17b5f7-1-768x512.jpg",Full Match: Tunisia vs Nhật Bản (11:00 – 21/06)
+#EXTINF:-1 group-title="video",Full Match: Tunisia vs Nhật Bản (11:00 – 21/06)
 https://video.apisportpulse.com/2026/06/21/dn1m1ghl0gdemoe-nick.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-21-091607-768x480.png",Full Match: Ecuador vs Curacao (07:00 – 21/06)
+#EXTINF:-1 group-title="video",Full Match: Ecuador vs Curacao (07:00 – 21/06)
 https://video.apisportpulse.com/2026/06/21/y39mp1h64ee7moj-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-21-051102-768x487.png",Full Match: Đức vs Bờ Biển Ngà (03:00 – 21/06)
+#EXTINF:-1 group-title="video",Full Match: Đức vs Bờ Biển Ngà (03:00 – 21/06)
 https://video.apisportpulse.com/2026/06/21/pxwrxlhy30nxryk-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-21-021137-768x507.png",Full Match: Hà Lan vs Thụy Điển (00:00 – 21/06)
+#EXTINF:-1 group-title="video",Full Match: Hà Lan vs Thụy Điển (00:00 – 21/06)
 https://video.apisportpulse.com/2026/06/21/x7lm7phj72vxm2w-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-20_09-17-59-1-768x512.jpg",Full Match: Thổ Nhĩ Kỳ vs Paraguay (10:00 – 20/06)
+#EXTINF:-1 group-title="video",Full Match: Thổ Nhĩ Kỳ vs Paraguay (10:00 – 20/06)
 https://video.apisportpulse.com/2026/06/20/4jwq2ghn9552m0v-nick.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-20_07-21-03-1-768x531.jpg",Full Match: Brazil vs Haiti (07:30 – 20/06)
+#EXTINF:-1 group-title="video",Full Match: Brazil vs Haiti (07:30 – 20/06)
 https://video.apisportpulse.com/2026/06/20/dj2ryohlx9pdq1z-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-20-071839-768x498.png",Full Match: Scotland vs Ma Rốc (05:00 – 20/06)
+#EXTINF:-1 group-title="video",Full Match: Scotland vs Ma Rốc (05:00 – 20/06)
 https://video.apisportpulse.com/2026/06/20/23xmvkh60llzqg8-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-20_03-09-35-768x468.jpg",Full Match: USA vs Australia (02:00 – 20/06)
+#EXTINF:-1 group-title="video",Full Match: USA vs Australia (02:00 – 20/06)
 https://video.apisportpulse.com/2026/06/20/pxwrxlhy3lojryk-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/me-1-1-768x545.jpg",Full Match: Mexico vs Hàn Quốc (08:00 – 19/06)
+#EXTINF:-1 group-title="video",Full Match: Mexico vs Hàn Quốc (08:00 – 19/06)
 https://video.apisportpulse.com/2026/06/19/l5ergph48kj9r8k-nick.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-19-072101-768x502.png",Full Match: Canada vs Qatar (05:00 – 19/06)
+#EXTINF:-1 group-title="video",Full Match: Canada vs Qatar (05:00 – 19/06)
 https://video.apisportpulse.com/2026/06/19/2y8m4zh5pv93ql0-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/1312-1-1-768x514.jpg",Full Match: Thụy Sĩ vs Bosnia-Herzegovina (02:00 – 19/06)
+#EXTINF:-1 group-title="video",Full Match: Thụy Sĩ vs Bosnia-Herzegovina (02:00 – 19/06)
 https://video.apisportpulse.com/2026/06/19/x7lm7phj722xm2w-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/ca1-768x576.jpg",Full Match: CH Séc vs Nam Phi (23:00 – 18/06)
+#EXTINF:-1 group-title="video",Full Match: CH Séc vs Nam Phi (23:00 – 18/06)
 https://video.apisportpulse.com/2026/06/18/pxwrxlhy300xryk-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-18_08-28-03-1-768x530.jpg",Full Match: Uzbekistan vs Colombia (09:00 – 18/06)
+#EXTINF:-1 group-title="video",Full Match: Uzbekistan vs Colombia (09:00 – 18/06)
 https://video.apisportpulse.com/2026/06/18/n54qllhnzwyoqvy-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-18-081558-768x510.png",Full Match: Ghana vs Panama (06:00 – 18/06)
+#EXTINF:-1 group-title="video",Full Match: Ghana vs Panama (06:00 – 18/06)
 https://video.apisportpulse.com/2026/06/18/1l4rjnh9ld0ym7v-astra.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-18-053121-768x538.png",Full Match: Anh vs Croatia (03:00 – 18/06)
+#EXTINF:-1 group-title="video",Full Match: Anh vs Croatia (03:00 – 18/06)
 https://video.apisportpulse.com/2026/06/18/dj2ryohlx99dq1z-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-18-021200-768x484.png",Full Match: Bồ Đào Nha vs DR Congo (00:00 – 18/06)
+#EXTINF:-1 group-title="video",Full Match: Bồ Đào Nha vs DR Congo (00:00 – 18/06)
 https://video.apisportpulse.com/2026/06/18/l5ergph4877er8k-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-17_10-09-49-1-768x512.jpg",Full Match: Áo vs Jordan (11:00 – 17/06)
+#EXTINF:-1 group-title="video",Full Match: Áo vs Jordan (11:00 – 17/06)
 https://video.apisportpulse.com/2026/06/17/vjxm8ghew7o6r6o-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-17_07-10-09-1-768x512.jpg",Full Match: Argentina vs Algeria (08:00 – 17/06)
+#EXTINF:-1 group-title="video",Full Match: Argentina vs Algeria (08:00 – 17/06)
 https://video.apisportpulse.com/2026/06/17/318q66hxg33oqo9-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-17-073406-768x509.png",Full Match: Iraq vs Na Uy (05:00 – 17/06)
-https://video.apisportpulse.com/2026/06/17/y0or5jh8owd5qwz-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-17-044140-768x494.png",Full Match: Pháp vs Senegal (02:00 – 17/06)
-https://video.apisportpulse.com/2026/06/17/965mkyhko0wjr1g-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-16_07-09-04-1-768x489.jpg",Full Match: Iran vs New Zealand (08:00 – 16/06)
-https://video.apisportpulse.com/2026/06/16/l5ergph487jer8k-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-16-071344-768x507.png",Full Match: Ả Rập Xê Út vs Uruguay (05:00 – 16/06)
-https://video.apisportpulse.com/2026/06/16/dj2ryohlx93dq1z-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-16-040740-768x571.png",Full Match: Bỉ vs Ai Cập  (02:00 – 16/06)
-https://video.apisportpulse.com/2026/06/16/n54qllhnzw3wqvy-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-16-010747-768x503.png",Full Match: Tây Ban Nha vs Cabo Verde (23:00 – 15/06)
-https://video.apisportpulse.com/2026/06/15/1l4rjnh9ldgom7v-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Tunisia-1-1-768x531.jpg",Full Match: Thụy Điển vs Tunisia (09:00 – 15/06)
-https://video.apisportpulse.com/2026/06/15/318q66hxg3doqo9-astra.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/ec-1-1-768x527.jpg",Full Match: Bờ Biển Ngà vs Ecuador (06:00 – 15/06)
-https://video.apisportpulse.com/2026/06/15/965mkyhko00jr1g-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Anh-chup-man-hinh-2026-06-15-022553-768x498.png",Full Match: Hà Lan vs Nhật Bản (03:00 – 15/06)
-https://video.apisportpulse.com/2026/06/15/vjxm8ghew70er6o-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-15-022205-768x501.png",Full Match: Đức vs Curacao (00:00 – 15/06)
-https://video.apisportpulse.com/2026/06/15/6ypq3nhvnp8nmd7-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-14_10-13-39-1-768x512.jpg",Full Match: Australia vs Thổ Nhĩ Kỳ (11:00 – 14/06)
-https://video.apisportpulse.com/2026/06/14/1l4rjnh9lddom7v-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-14_10-07-18-1-768x562.jpg",Full Match: Haiti vs Scotland (08:00 – 14/06)
-https://video.apisportpulse.com/2026/06/14/n54qllhnzwwwqvy-max.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-14-071621-768x504.png",Full Match: Brazil vs Ma Rốc (05:00 – 14/06)
-https://video.apisportpulse.com/2026/06/14/l7oqdehg39x1r51-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-14-042904-768x489.png",Full Match: Qatar vs Thụy Sĩ (02:00 – 14/06)
-https://video.apisportpulse.com/2026/06/14/vjxm8ghew77er6o-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-13_07-08-27-1-768x530.jpg",Full Match: USA vs Paraguay (08:00 – 13/06)
-https://video.apisportpulse.com/2026/06/13/6ypq3nhvnkozmd7-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/canada-scaled-1-768x512.jpg",Full Match: Canada vs Bosnia-Herzegovina (02:00 – 13/06)
-https://video.apisportpulse.com/2026/06/13/dj2ryohlx70vq1z-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-12_08-19-01-1-768x503.jpg",Full Match: Hàn Quốc vs CH Séc (09:00 – 12/06)
-https://video.apisportpulse.com/2026/06/12/6ypq3nhvnppnmd7-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-12-041355-768x505.png",Full Match: Mexico vs Nam Phi (02:00 – 12/06)
-https://video.apisportpulse.com/2026/06/12/4wyrn4h6ly13q86-roy.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/Costa-Rica-1-1-768x486.jpg",Full Match: Anh vs Costa Rica (04:00 – 11/06)
-https://video.apisportpulse.com/2026/06/11/4jwq2ghng9vkm0v-brady.mp4
-#EXTINF:-1 group-title="video" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-11_05-19-38-2-768x489.jpg",Full Match: Bồ Đào Nha vs Nigeria (02:45 – 11/06)
-https://video.apisportpulse.com/2026/06/11/l7oqdehg9gn4r51-nick.mp4
+
+#EXTGRP:highlight
+#EXTINF:-1 group-title="highlight",Nam Phi vs Canada (02:00 – 29/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782682733988/index.m3u8
+#EXTINF:-1 group-title="highlight",Jordan vs Argentina (09:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782621775138/index.m3u8
+#EXTINF:-1 group-title="highlight",Algeria vs Áo (09:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782622088877/index.m3u8
+#EXTINF:-1 group-title="highlight",Colombia vs Bồ Đào Nha (06:30 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782621132701/index.m3u8
+#EXTINF:-1 group-title="highlight",DR Congo vs Uzbekistan (06:30 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/28/1782621623842/index.m3u8
+#EXTINF:-1 group-title="highlight",Panama vs Anh (04:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782602140525/index.m3u8
+#EXTINF:-1 group-title="highlight",Croatia vs Ghana (04:00 – 28/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782602173761/index.m3u8
+#EXTINF:-1 group-title="highlight",New Zealand vs Bỉ (10:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782538267786/index.m3u8
+#EXTINF:-1 group-title="highlight",Ai Cập  vs Iran (10:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782538341480/index.m3u8
+#EXTINF:-1 group-title="highlight",Uruguay vs Tây Ban Nha (07:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782527717040/index.m3u8
+#EXTINF:-1 group-title="highlight",Cabo Verde vs Ả Rập Xê Út (07:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/27/1782527836205/index.m3u8
+#EXTINF:-1 group-title="highlight",Na Uy vs Pháp (02:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782509900989/index.m3u8
+#EXTINF:-1 group-title="highlight",Senegal vs Iraq (02:00 – 27/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782510030192/index.m3u8
+#EXTINF:-1 group-title="highlight",Thổ Nhĩ Kỳ vs USA (09:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782448456535/index.m3u8
+#EXTINF:-1 group-title="highlight",Paraguay vs Australia (09:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782448565432/index.m3u8
+#EXTINF:-1 group-title="highlight",Nhật Bản vs Thụy Điển (06:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782437795240/index.m3u8
+#EXTINF:-1 group-title="highlight",Tunisia vs Hà Lan (06:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/26/1782438010150/index.m3u8
+#EXTINF:-1 group-title="highlight",Ecuador vs Đức (03:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782427176243/index.m3u8
+#EXTINF:-1 group-title="highlight",Curacao vs Bờ Biển Ngà (03:00 – 26/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782427570743/index.m3u8
+#EXTINF:-1 group-title="highlight",Nam Phi vs Hàn Quốc (08:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782358977888/index.m3u8
+#EXTINF:-1 group-title="highlight",CH Séc vs Mexico (08:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782359082872/index.m3u8
+#EXTINF:-1 group-title="highlight",Scotland vs Brazil (05:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782359253072/index.m3u8
+#EXTINF:-1 group-title="highlight",Ma Rốc vs Haiti (05:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/25/1782348600016/index.m3u8
+#EXTINF:-1 group-title="highlight",Bosnia-Herzegovina vs Qatar (02:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782336114392/index.m3u8
+#EXTINF:-1 group-title="highlight",Thụy Sĩ vs Canada (02:00 – 25/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782336448467/index.m3u8
+#EXTINF:-1 group-title="highlight",Colombia vs DR Congo (09:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782278376289/index.m3u8
+#EXTINF:-1 group-title="highlight",Panama vs Croatia (06:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/24/1782265256829/index.m3u8
+#EXTINF:-1 group-title="highlight",Anh vs Ghana (03:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/23/1782253545868/index.m3u8
+#EXTINF:-1 group-title="highlight",Bồ Đào Nha vs Uzbekistan (00:00 – 24/06)
+https://highlight.thuckhuya1.net/2026/06/23/1782243278620/index.m3u8
+#EXTINF:-1 group-title="highlight",Na Uy vs Senegal (07:00 – 23/06)
+https://highlight.thuckhuya1.net/2026/06/23/1782181859709/index.m3u8
+#EXTINF:-1 group-title="highlight",Argentina vs Áo (00:00 – 23/06)
+https://highlight.thuckhuya1.net/2026/06/22/1782156952782/index.m3u8
+#EXTINF:-1 group-title="highlight",Uruguay vs Cabo Verde (05:00 – 22/06)
+https://highlight.thuckhuya1.net/2026/06/22/1782088231667/index.m3u8
+#EXTINF:-1 group-title="highlight",Bỉ vs Iran (02:00 – 22/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782077378193/index.m3u8
+#EXTINF:-1 group-title="highlight",Tây Ban Nha vs Ả Rập Xê Út (23:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782067222988/index.m3u8
+#EXTINF:-1 group-title="highlight",Tunisia vs Nhật Bản (11:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782023859984/index.m3u8
+#EXTINF:-1 group-title="highlight",Ecuador vs Curacao (07:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/21/1782008763643/index.m3u8
+#EXTINF:-1 group-title="highlight",Đức vs Bờ Biển Ngà (03:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781995143542/index.m3u8
+#EXTINF:-1 group-title="highlight",Hà Lan vs Thụy Điển (00:00 – 21/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781995190504/index.m3u8
+#EXTINF:-1 group-title="highlight",Thổ Nhĩ Kỳ vs Paraguay (10:00 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781934608504/index.m3u8
+#EXTINF:-1 group-title="highlight",Brazil vs Haiti (07:30 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781934600659/index.m3u8
+#EXTINF:-1 group-title="highlight",Scotland vs Ma Rốc (05:00 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/20/1781934594675/index.m3u8
+#EXTINF:-1 group-title="highlight",USA vs Australia (02:00 – 20/06)
+https://highlight.thuckhuya1.net/2026/06/19/1781905481982/index.m3u8
+#EXTINF:-1 group-title="highlight",Uzbekistan vs Colombia (09:00 – 18/06)
+https://highlight.thuckhuya1.net/2026/06/18/1781757962581/index.m3u8
+#EXTINF:-1 group-title="highlight",Ghana vs Panama (06:00 – 18/06)
+https://highlight.thuckhuya1.net/2026/06/18/1781748197012/index.m3u8
+#EXTINF:-1 group-title="highlight",Anh vs Croatia (03:00 – 18/06)
+https://highlight.thuckhuya1.net/2026/06/17/1781735395223/index.m3u8
+#EXTINF:-1 group-title="highlight",Bồ Đào Nha vs DR Congo (00:00 – 18/06)
+https://highlight.thuckhuya1.net/2026/06/17/1781733757805/index.m3u8
+#EXTINF:-1 group-title="highlight",Áo vs Jordan (11:00 – 17/06)
+https://highlight.thuckhuya1.net/2026/06/17/1781678638593/index.m3u8
+#EXTINF:-1 group-title="highlight",Argentina vs Algeria (08:00 – 17/06)
+https://highlight.thuckhuya1.net/2026/06/17/1781667133608/index.m3u8
+#EXTINF:-1 group-title="highlight",Iraq vs Na Uy (05:00 – 17/06)
+https://highlight.thuckhuya1.net/2026/06/17/1781656323093/index.m3u8
+#EXTINF:-1 group-title="highlight",Pháp vs Senegal (02:00 – 17/06)
+https://highlight.thuckhuya1.net/2026/06/16/1781646644431/index.m3u8
+#EXTINF:-1 group-title="highlight",Iran vs New Zealand (08:00 – 16/06)
+https://highlight.thuckhuya1.net/2026/06/16/1781585410473/index.m3u8
+#EXTINF:-1 group-title="highlight",Ả Rập Xê Út vs Uruguay (05:00 – 16/06)
+https://highlight.thuckhuya1.net/2026/06/16/1781570152456/index.m3u8
+#EXTINF:-1 group-title="highlight",Bỉ vs Ai Cập  (02:00 – 16/06)
+https://highlight.thuckhuya1.net/2026/06/16/1781579983522/index.m3u8
+#EXTINF:-1 group-title="highlight",Tây Ban Nha vs Cabo Verde (23:00 – 15/06)
+https://highlight.thuckhuya1.net/2026/06/15/1781548205028/index.m3u8
+#EXTINF:-1 group-title="highlight",Thụy Điển vs Tunisia (09:00 – 15/06)
+https://highlight.thuckhuya1.net/2026/06/15/1781497344795/index.m3u8
+#EXTINF:-1 group-title="highlight",Bờ Biển Ngà vs Ecuador (06:00 – 15/06)
+https://highlight.thuckhuya1.net/2026/06/15/1781497068012/index.m3u8
+#EXTINF:-1 group-title="highlight",Hà Lan vs Nhật Bản (03:00 – 15/06)
+https://highlight.thuckhuya1.net/2026/06/14/1781476225758/index.m3u8
+#EXTINF:-1 group-title="highlight",Đức vs Curacao (00:00 – 15/06)
+https://highlight.thuckhuya1.net/2026/06/14/1781476131616/index.m3u8
+#EXTINF:-1 group-title="highlight",Australia vs Thổ Nhĩ Kỳ (11:00 – 14/06)
+https://highlight.thuckhuya1.net/2026/06/14/1781421354620/index.m3u8
+#EXTINF:-1 group-title="highlight",Haiti vs Scotland (08:00 – 14/06)
+https://highlight.thuckhuya1.net/2026/06/14/1781421172960/index.m3u8
+#EXTINF:-1 group-title="highlight",Brazil vs Ma Rốc (05:00 – 14/06)
+https://highlight.thuckhuya1.net/2026/06/14/1781397078865/index.m3u8
+#EXTINF:-1 group-title="highlight",Qatar vs Thụy Sĩ (02:00 – 14/06)
+https://highlight.thuckhuya1.net/2026/06/14/1781396900339/index.m3u8
+#EXTINF:-1 group-title="highlight",USA vs Paraguay (08:00 – 13/06)
+https://highlight.thuckhuya1.net/2026/06/13/1781322350682/index.m3u8
+#EXTINF:-1 group-title="highlight",Canada vs Bosnia-Herzegovina (02:00 – 13/06)
+https://highlight.thuckhuya1.net/2026/06/12/1781300339919/index.m3u8
+#EXTINF:-1 group-title="highlight",Hàn Quốc vs CH Séc (09:00 – 12/06)
+https://highlight.thuckhuya1.net/2026/06/12/1781275189104/index.m3u8
+#EXTINF:-1 group-title="highlight",Mexico vs Nam Phi (02:00 – 12/06)
+https://highlight.thuckhuya1.net/2026/06/12/1781222566519/index.m3u8
+#EXTINF:-1 group-title="highlight",Anh vs Costa Rica (04:00 – 11/06)
+https://highlight.thuckhuya1.net/2026/06/10/1781133566777/index.m3u8
+#EXTINF:-1 group-title="highlight",Bồ Đào Nha vs Nigeria (02:45 – 11/06)
+https://highlight.thuckhuya1.net/2026/06/10/1781131502859/index.m3u8
+#EXTINF:-1 group-title="highlight",Argentina vs Iceland (08:00 – 10/06)
+https://highlight.thuckhuya1.net/2026/06/10/1781095629446/index.m3u8
+#EXTINF:-1 group-title="highlight",Pháp vs Bắc Ireland (02:10 – 09/06)
+https://highlight.thuckhuya1.net/2026/06/08/1780955409075/index.m3u8
+#EXTINF:-1 group-title="highlight",Hà Lan vs Uzbekistan (01:45 – 09/06)
+https://highlight.thuckhuya1.net/2026/06/08/1780955291008/index.m3u8
+#EXTINF:-1 group-title="highlight",Hy Lạp vs Italy (02:00 – 08/06)
+https://highlight.thuckhuya1.net/2026/06/07/1780868953225/index.m3u8
+#EXTINF:-1 group-title="highlight",Ma Rốc vs Na Uy (02:00 – 08/06)
+https://highlight.thuckhuya1.net/2026/06/07/1780869005343/index.m3u8
+#EXTINF:-1 group-title="highlight",Croatia vs Slovenia (01:45 – 08/06)
+https://highlight.thuckhuya1.net/2026/06/07/1780868809920/index.m3u8
+#EXTINF:-1 group-title="highlight",Argentina vs Honduras (07:00 – 07/06)
+https://highlight.thuckhuya1.net/2026/06/07/1780866400797/index.m3u8
+#EXTINF:-1 group-title="highlight",Brazil vs Ai Cập  (05:00 – 07/06)
+https://highlight.thuckhuya1.net/2026/06/07/1780793231241/index.m3u8
+#EXTINF:-1 group-title="highlight",Anh vs New Zealand (03:00 – 07/06)
+https://highlight.thuckhuya1.net/2026/06/06/1780783877794/index.m3u8
+#EXTINF:-1 group-title="highlight",USA vs Đức (01:30 – 07/06)
+https://highlight.thuckhuya1.net/2026/06/06/1780782359411/index.m3u8
+#EXTINF:-1 group-title="highlight",Bồ Đào Nha vs Chile (00:45 – 07/06)
+https://highlight.thuckhuya1.net/2026/06/06/1780781796703/index.m3u8
+#EXTINF:-1 group-title="highlight",Bỉ vs Tunisia (20:00 – 06/06)
+https://highlight.thuckhuya1.net/2026/06/06/1780781788095/index.m3u8
+
+#EXTGRP:xoilac
+#EXTINF:-1 group-title="xoilac",Bồ Đào Nha vs Croatia lúc 06:00 ngày 03/07/2026 - HD ROY
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001783035149-0-0-6f0bb9ac4b444230809d2edecca296e3|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1/off-tvc
+#EXTINF:-1 group-title="xoilac",Bồ Đào Nha vs Croatia lúc 06:00 ngày 03/07/2026 - HD NICK
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001783035152-0-0-74127730554b84aec0626f4cde70ad8f|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel5/off-tvc
 
 #EXTGRP:hoiquan
-#EXTINF:-1 group-title="hoiquan",Tianjin Teda vs Sichuan Jiuniu - BLV TÁO GIÀ (FHD) [Super League]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Tianjin Teda vs Sichuan Jiuniu - BLV TÁO GIÀ (HD) [Super League]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Tianjin Teda vs Sichuan Jiuniu - BLV TÁO GIÀ (SD) [Super League]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (FHD) [World Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (HD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (SD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (FHD) [World Cup]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (HD) [World Cup]
@@ -189,224 +317,26 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV PHAN QUẨY (SD) [World Cup]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (FHD) [World Cup]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (HD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (SD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (FHD) [Super League]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 #EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (HD) [Super League]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (SD) [Super League]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Okzhetpes - BLV PHAN CA (FHD) [VĐQG Kyrgyzstan]
+#EXTINF:-1 group-title="hoiquan",U18 Thailand vs U18 Uzbekistan - BLV TÁO GIÀ (FHD) [U18 Châu Á]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",U18 Thailand vs U18 Uzbekistan - BLV TÁO GIÀ (HD) [U18 Châu Á]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",U18 Thailand vs U18 Uzbekistan - BLV TÁO GIÀ (SD) [U18 Châu Á]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",U18 Indonesia vs U18 Philippines - BLV PHAN CA (FHD) [U18 Châu Á]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Okzhetpes - BLV PHAN CA (HD) [VĐQG Kyrgyzstan]
+#EXTINF:-1 group-title="hoiquan",U18 Indonesia vs U18 Philippines - BLV PHAN CA (HD) [U18 Châu Á]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Okzhetpes - BLV PHAN CA (SD) [VĐQG Kyrgyzstan]
+#EXTINF:-1 group-title="hoiquan",U18 Indonesia vs U18 Philippines - BLV PHAN CA (SD) [U18 Châu Á]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Caty McNally - Elena Rybakina - BLV PHAN HẢI (FHD) [WTA500]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Caty McNally - Elena Rybakina - BLV PHAN HẢI (HD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Caty McNally - Elena Rybakina - BLV PHAN HẢI (SD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Royer V. vs Zverev A. - BLV PHAN BỐNG (FHD) [WTA500]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Royer V. vs Zverev A. - BLV PHAN BỐNG (HD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Royer V. vs Zverev A. - BLV PHAN BỐNG (SD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",Khan Tengri FC - Ekibastuzets
-https://lilive1.eu.cc/live/40fd02a23c09fc77ab7b1b678378dc17/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",BATE Borisov - FC Gomel
-https://lilive1.eu.cc/live/d003f86a13e7db64e4d73c6a0237c0a3/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Serbia U19 - Ukraine U19
-https://lilive1.eu.cc/live/f6332a4326f9292389851fccbecc2827/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Spain - Austria
-https://lilive1.eu.cc/live/b99cc0dbf3f2a1d1211a8c2e4d88589e/playlist.m3u8
-
-#EXTGRP:highlight
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/07/photo_2026-07-02_06-04-18-1.jpg",USA vs Bosnia-Herzegovina (07:00 &#8211; 02/07) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/07/02/1782959907544/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/07/photo_2026-07-02_02-54-26-2.jpg",Bỉ vs Senegal (03:00 &#8211; 02/07) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/07/01/1782947999824/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/07/photo_2026-07-01_21-54-00-1.jpg",Anh vs DR Congo (23:00 &#8211; 01/07) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/07/01/1782930749037/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/07/Screenshot-2026-07-01-114308.png",Mexico vs Ecuador (09:00 &#8211; 01/07) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/07/01/1782881080452/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/07/Screenshot-2026-07-01-031919-1.png",Pháp vs Thụy Điển (04:00 &#8211; 01/07) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/30/1782861649755/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/07/Screenshot-2026-07-01-033155.png",Bờ Biển Ngà vs Na Uy (00:00 &#8211; 01/07) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/30/1782862276611/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-30-114707.png",Hà Lan vs Ma Rốc (08:00 &#8211; 30/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/30/1782796452925/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Anh-chup-man-hinh-2026-06-30-035633.png",Đức vs Paraguay (03:30 &#8211; 30/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/30/1782779916458/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-29_23-28-09-1.jpg",Brazil vs Nhật Bản (00:00 &#8211; 30/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/29/1782762011799/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-29-040837.png",Nam Phi vs Canada (02:00 &#8211; 29/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/28/1782682733988/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-28_08-03-11-1-1.jpg",Jordan vs Argentina (09:00 &#8211; 28/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/28/1782621775138/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-28_08-16-47-1.jpg",Algeria vs Áo (09:00 &#8211; 28/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/28/1782622088877/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/BDN.png",Colombia vs Bồ Đào Nha (06:30 &#8211; 28/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/28/1782621132701/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-28_08-36-20-1.jpg",DR Congo vs Uzbekistan (06:30 &#8211; 28/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/28/1782621623842/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/ANH-1.png",Panama vs Anh (04:00 &#8211; 28/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/27/1782602140525/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Ghana-4.png",Croatia vs Ghana (04:00 &#8211; 28/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/27/1782602173761/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-27_09-08-39-1.jpg",New Zealand vs Bỉ (10:00 &#8211; 27/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/27/1782538267786/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-27_09-16-15-1.jpg",Ai Cập vs Iran (10:00 &#8211; 27/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/27/1782538341480/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Tay-ban-nha.png",Uruguay vs Tây Ban Nha (07:00 &#8211; 27/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/27/1782527717040/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/CABO-VERDE.png",Cabo Verde vs Ả Rập Xê Út (07:00 &#8211; 27/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/27/1782527836205/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-27-042752.png",Na Uy vs Pháp (02:00 &#8211; 27/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/26/1782509900989/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/IRAQ.png",Senegal vs Iraq (02:00 &#8211; 27/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/26/1782510030192/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-26_07-59-10-1-1-1.jpg",Thổ Nhĩ Kỳ vs USA (09:00 &#8211; 26/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/26/1782448456535/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-26_08-00-05-1-1.jpg",Paraguay vs Australia (09:00 &#8211; 26/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/26/1782448565432/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/THUY-DIEN.png",Nhật Bản vs Thụy Điển (06:00 &#8211; 26/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/26/1782437795240/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/HA-LAN.png",Tunisia vs Hà Lan (06:00 &#8211; 26/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/26/1782438010150/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/DUC.png",Ecuador vs Đức (03:00 &#8211; 26/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/25/1782427176243/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/CURACAO.png",Curacao vs Bờ Biển Ngà (03:00 &#8211; 26/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/25/1782427570743/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-25_07-13-45-1.jpg",Nam Phi vs Hàn Quốc (08:00 &#8211; 25/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/25/1782358977888/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-25_07-03-01-1.jpg",CH Séc vs Mexico (08:00 &#8211; 25/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/25/1782359082872/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-072937.png",Scotland vs Brazil (05:00 &#8211; 25/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/25/1782359253072/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-074432.png",Ma Rốc vs Haiti (05:00 &#8211; 25/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/25/1782348600016/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-042036.png",Bosnia-Herzegovina vs Qatar (02:00 &#8211; 25/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/24/1782336114392/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-25-042253.png",Thụy Sĩ vs Canada (02:00 &#8211; 25/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/24/1782336448467/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/980901b4-b26b-40ac-a3ce-4c2b4de04c9c-1.jpg",Colombia vs DR Congo (09:00 &#8211; 24/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/24/1782278376289/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-24-081221.png",Panama vs Croatia (06:00 &#8211; 24/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/24/1782265256829/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-24-052359.png",Anh vs Ghana (03:00 &#8211; 24/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/23/1782253545868/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-24-021144.png",Bồ Đào Nha vs Uzbekistan (00:00 &#8211; 24/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/23/1782243278620/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-23-091227.png",Na Uy vs Senegal (07:00 &#8211; 23/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/23/1782181859709/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-23-015759.png",Argentina vs Áo (00:00 &#8211; 23/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/22/1782156952782/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-22-071436.png",Uruguay vs Cabo Verde (05:00 &#8211; 22/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/22/1782088231667/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-22-042844.png",Bỉ vs Iran (02:00 &#8211; 22/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/21/1782077378193/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-22-013838-1.png",Tây Ban Nha vs Ả Rập Xê Út (23:00 &#8211; 21/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/21/1782067222988/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/6930df78-1246-4208-9aa7-0838ff17b5f7-1.jpg",Tunisia vs Nhật Bản (11:00 &#8211; 21/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/21/1782023859984/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-21-091607.png",Ecuador vs Curacao (07:00 &#8211; 21/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/21/1782008763643/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-21-051102.png",Đức vs Bờ Biển Ngà (03:00 &#8211; 21/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/20/1781995143542/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-21-021137.png",Hà Lan vs Thụy Điển (00:00 &#8211; 21/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/20/1781995190504/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-20_09-17-59-1.jpg",Thổ Nhĩ Kỳ vs Paraguay (10:00 &#8211; 20/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/20/1781934608504/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-20_07-21-03-1.jpg",Brazil vs Haiti (07:30 &#8211; 20/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/20/1781934600659/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-20-071839.png",Scotland vs Ma Rốc (05:00 &#8211; 20/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/20/1781934594675/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-20_03-09-35.jpg",USA vs Australia (02:00 &#8211; 20/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/19/1781905481982/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-18_08-28-03-1.jpg",Uzbekistan vs Colombia (09:00 &#8211; 18/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/18/1781757962581/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-18-081558.png",Ghana vs Panama (06:00 &#8211; 18/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/18/1781748197012/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-18-053121.png",Anh vs Croatia (03:00 &#8211; 18/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/17/1781735395223/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-18-021200.png",Bồ Đào Nha vs DR Congo (00:00 &#8211; 18/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/17/1781733757805/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-17_10-09-49-1.jpg",Áo vs Jordan (11:00 &#8211; 17/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/17/1781678638593/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-17_07-10-09-1.jpg",Argentina vs Algeria (08:00 &#8211; 17/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/17/1781667133608/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-17-073406.png",Iraq vs Na Uy (05:00 &#8211; 17/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/17/1781656323093/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-17-044140.png",Pháp vs Senegal (02:00 &#8211; 17/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/16/1781646644431/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-16_07-09-04-1.jpg",Iran vs New Zealand (08:00 &#8211; 16/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/16/1781585410473/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-16-071344.png",Ả Rập Xê Út vs Uruguay (05:00 &#8211; 16/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/16/1781570152456/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-16-040740.png",Bỉ vs Ai Cập (02:00 &#8211; 16/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/16/1781579983522/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-16-010747.png",Tây Ban Nha vs Cabo Verde (23:00 &#8211; 15/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/15/1781548205028/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Tunisia-1-1.jpg",Thụy Điển vs Tunisia (09:00 &#8211; 15/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/15/1781497344795/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/ec-1-1.jpg",Bờ Biển Ngà vs Ecuador (06:00 &#8211; 15/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/15/1781497068012/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Anh-chup-man-hinh-2026-06-15-022553.png",Hà Lan vs Nhật Bản (03:00 &#8211; 15/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/14/1781476225758/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-15-022205.png",Đức vs Curacao (00:00 &#8211; 15/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/14/1781476131616/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-14_10-13-39-1.jpg",Australia vs Thổ Nhĩ Kỳ (11:00 &#8211; 14/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/14/1781421354620/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-14_10-07-18-1.jpg",Haiti vs Scotland (08:00 &#8211; 14/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/14/1781421172960/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-14-071621.png",Brazil vs Ma Rốc (05:00 &#8211; 14/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/14/1781397078865/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-14-042904.png",Qatar vs Thụy Sĩ (02:00 &#8211; 14/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/14/1781396900339/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-13_07-08-27-1.jpg",USA vs Paraguay (08:00 &#8211; 13/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/13/1781322350682/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/canada-scaled-1.jpg",Canada vs Bosnia-Herzegovina (02:00 &#8211; 13/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/12/1781300339919/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-12_08-19-01-1.jpg",Hàn Quốc vs CH Séc (09:00 &#8211; 12/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/12/1781275189104/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Screenshot-2026-06-12-041355.png",Mexico vs Nam Phi (02:00 &#8211; 12/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/12/1781222566519/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Costa-Rica-1-1.jpg",Anh vs Costa Rica (04:00 &#8211; 11/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/10/1781133566777/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/photo_2026-06-11_05-19-38-2.jpg",Bồ Đào Nha vs Nigeria (02:45 &#8211; 11/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/10/1781131502859/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/2280810565-1.jpg",Argentina vs Iceland (08:00 &#8211; 10/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/10/1781095629446/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Ireland-1-1.jpg",Pháp vs Bắc Ireland (02:10 &#8211; 09/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/08/1780955409075/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Uzbekistan-1-1.jpg",Hà Lan vs Uzbekistan (01:45 &#8211; 09/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/08/1780955291008/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/zizu1.jpg",Hy Lạp vs Italy (02:00 &#8211; 08/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/07/1780868953225/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/MAX1-1.jpg",Ma Rốc vs Na Uy (02:00 &#8211; 08/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/07/1780869005343/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Croatia-va-Slovenia-1-1-1.jpg",Croatia vs Slovenia (01:45 &#8211; 08/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/07/1780868809920/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/astra222.jpg",Argentina vs Honduras (07:00 &#8211; 07/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/07/1780866400797/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/XMEN1.jpg",Brazil vs Ai Cập (05:00 &#8211; 07/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/07/1780793231241/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/England-vs-New-Zealand-1-1.jpg",Anh vs New Zealand (03:00 &#8211; 07/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/06/1780783877794/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/FINN1.jpg",USA vs Đức (01:30 &#8211; 07/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/06/1780782359411/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/nick1.jpg",Bồ Đào Nha vs Chile (00:45 &#8211; 07/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/06/1780781796703/index.m3u8
-#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.robindeslois.org/2026/06/Belgium-vs-tunisa.jpg",Bỉ vs Tunisia (20:00 &#8211; 06/06) | Xem lại trận đấu
-https://highlight.thuckhuya1.net/2026/06/06/1780781788095/index.m3u8
+#EXTINF:-1 group-title="tieulam",Portugal - Croatia
+https://lilive1.eu.cc/live/ba27670344825705682f82de2baeb444/playlist.m3u8
 
