@@ -1,6 +1,18 @@
 #EXTM3U
 
 #EXTGRP:video
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/photo_2026-07-02_06-04-18-1-768x531.jpg",Full Match: USA vs Bosnia-Herzegovina (07:00 – 02/07)
+https://video.apisportpulse.com/2026/07/02/8yomo4h14y1dq0j-nick.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/photo_2026-07-02_02-54-26-2-768x512.jpg",Full Match: Bỉ vs Senegal (03:00 – 02/07)
+https://video.apisportpulse.com/2026/07/02/6ypq3nhvnkv2md7-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/photo_2026-07-01_21-54-00-1-768x478.jpg",Full Match: Anh vs DR Congo (23:00 – 01/07)
+https://video.apisportpulse.com/2026/07/01/2y8m4zh5pv5oql0-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/Screenshot-2026-07-01-114308-768x506.png",Full Match: Mexico vs Ecuador (09:00 – 01/07)
+https://video.apisportpulse.com/2026/07/01/dj2ryohlx7l6q1z-nick.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/Screenshot-2026-07-01-031919-1-768x459.png",Full Match: Pháp vs Thụy Điển (04:00 – 01/07)
+https://video.apisportpulse.com/2026/07/01/jw2r09hk05kdrz8-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczqqz.tv/2026/07/Screenshot-2026-07-01-033155-768x427.png",Full Match: Bờ Biển Ngà vs Na Uy (00:00 – 01/07)
+https://video.apisportpulse.com/2026/07/01/l7oqdehg3jgkr51-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.stojo.co/2026/06/Screenshot-2026-06-30-114707-768x510.png",Full Match: Hà Lan vs Ma Rốc (08:00 – 30/06)
 https://video.apisportpulse.com/2026/06/30/4wyrn4h6ly6wq86-brady.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.stojo.co/2026/06/Anh-chup-man-hinh-2026-06-30-035633-768x502.png",Full Match: Đức vs Paraguay (03:30 – 30/06)
@@ -287,44 +299,44 @@ https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782952883-0-0-
 https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001782952886-0-0-7e0c6ecf77ee393dc26f0cc9ff3a236c|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel6/off-tvc
 
 #EXTGRP:hoiquan
-#EXTINF:-1 group-title="hoiquan",Switzerland vs Algeria - BLV LƯƠNG BỔNG (FHD) [World Cup]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Switzerland vs Algeria - BLV LƯƠNG BỔNG (HD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Switzerland vs Algeria - BLV LƯƠNG BỔNG (SD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Portugal vs Croatia - BLV THẦN THÔNG (FHD) [World Cup]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Portugal vs Croatia - BLV THẦN THÔNG (HD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Portugal vs Croatia - BLV THẦN THÔNG (SD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Naftan vs Dinamo Brest - BLV PHAN ANH (FHD) [Premier League]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Naftan vs Dinamo Brest - BLV PHAN ANH (HD) [Premier League]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Naftan vs Dinamo Brest - BLV PHAN ANH (SD) [Premier League]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Nõmme United vs Kalju Nomme - BLV PHAN CA (FHD) [Meistriliiga]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Nõmme United vs Kalju Nomme - BLV PHAN CA (HD) [Meistriliiga]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Nõmme United vs Kalju Nomme - BLV PHAN CA (SD) [Meistriliiga]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",FC Astana vs Zhenys - BLV TÁO GIÀ (FHD) [Premier League]
+#EXTINF:-1 group-title="hoiquan",VPS vs Mariehamn - BLV TÁO GIÀ (FHD) [Veikkausliiga]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",FC Astana vs Zhenys - BLV TÁO GIÀ (HD) [Premier League]
+#EXTINF:-1 group-title="hoiquan",VPS vs Mariehamn - BLV TÁO GIÀ (HD) [Veikkausliiga]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",FC Astana vs Zhenys - BLV TÁO GIÀ (SD) [Premier League]
+#EXTINF:-1 group-title="hoiquan",VPS vs Mariehamn - BLV TÁO GIÀ (SD) [Veikkausliiga]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Switzerland vs Algeria - BLV PHAN QUẨY (FHD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (FHD) [Super League]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (HD) [Super League]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (SD) [Super League]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",FC Anyang vs Pohang Steelers - BLV PHAN CA (FHD) [K League 1]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",FC Anyang vs Pohang Steelers - BLV PHAN CA (HD) [K League 1]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",FC Anyang vs Pohang Steelers - BLV PHAN CA (SD) [K League 1]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (FHD) [World Cup]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (HD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (SD) [World Cup]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV PHAN QUẨY (FHD) [World Cup]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Switzerland vs Algeria - BLV PHAN QUẨY (HD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV PHAN QUẨY (HD) [World Cup]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Switzerland vs Algeria - BLV PHAN QUẨY (SD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV PHAN QUẨY (SD) [World Cup]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (FHD) [World Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (HD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (SD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",USA - Bosnia and Herzegovina
-https://lilive1.eu.cc/live/38bd6e62dd522199ee6bad48d5005ed7/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Akademiya Ontustik - FC Shakhtyor Karagandy
+https://lilive1.eu.cc/live/1926fec25c9ee789d5be868053c790ca/playlist.m3u8
 
