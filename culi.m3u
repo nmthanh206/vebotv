@@ -1,6 +1,12 @@
 #EXTM3U
 
 #EXTGRP:video
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.sa2020.org/2026/07/Screenshot-2026-07-04-103828.png",Full Match: Colombia vs Ghana (08:30 – 04/07)
+https://video.apisportpulse.com/2026/07/04/n54qllhnz448qvy-brady.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.sa2020.org/2026/07/photo_2026-07-04_05-03-52-1-768x484.jpg",Full Match: Argentina vs Cabo Verde (05:00 – 04/07)
+https://video.apisportpulse.com/2026/07/04/y0or5jh8o99eqwz-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.sa2020.org/2026/07/photo_2026-07-03_23-43-01-1-768x512.jpg",Full Match: Australia vs Ai Cập  (01:00 – 04/07)
+https://video.apisportpulse.com/2026/07/04/l5ergph48k79r8k-nick.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.majinbuofficial.com/2026/07/Screenshot-2026-07-03-122250.png",Full Match: Thụy Sĩ vs Algeria (10:00 – 03/07)
 https://video.apisportpulse.com/2026/07/03/vjxm8ghewkk4r6o-brady.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.majinbuofficial.com/2026/07/photo_2026-07-03_06-12-59-1-1-768x512.jpg",Full Match: Bồ Đào Nha vs Croatia (06:00 – 03/07)
@@ -171,6 +177,12 @@ https://video.apisportpulse.com/2026/06/13/dj2ryohlx70vq1z-roy.mp4
 https://video.apisportpulse.com/2026/06/12/6ypq3nhvnppnmd7-roy.mp4
 
 #EXTGRP:highlight
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.sa2020.org/2026/07/Screenshot-2026-07-04-103828.png",Colombia vs Ghana (08:30 &#8211; 04/07) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/07/04/1783137470530/index.m3u8
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.sa2020.org/2026/07/photo_2026-07-04_05-03-52-1.jpg",Argentina vs Cabo Verde (05:00 &#8211; 04/07) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/07/04/1783136155925/index.m3u8
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.sa2020.org/2026/07/photo_2026-07-03_23-43-01-1.jpg",Australia vs Ai Cập (01:00 &#8211; 04/07) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/07/04/1783136008913/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.majinbuofficial.com/2026/07/Screenshot-2026-07-03-122250.png",Thụy Sĩ vs Algeria (10:00 &#8211; 03/07) | Xem lại trận đấu
 https://highlight.thuckhuya1.net/2026/07/03/1783056722591/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.majinbuofficial.com/2026/07/photo_2026-07-03_06-12-59-1-1.jpg",Bồ Đào Nha vs Croatia (06:00 &#8211; 03/07) | Xem lại trận đấu
@@ -327,66 +339,54 @@ https://highlight.thuckhuya1.net/2026/06/12/1781300339919/index.m3u8
 https://highlight.thuckhuya1.net/2026/06/12/1781275189104/index.m3u8
 
 #EXTGRP:hoiquan
-#EXTINF:-1 group-title="hoiquan",U18 Thailand vs U18 Uzbekistan - BLV TÁO GIÀ (FHD) [U18 Châu Á]
+#EXTINF:-1 group-title="hoiquan",Ulaanbaatar vs Deren - BLV TÁO GIÀ (FHD) [Premier League]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Thailand vs U18 Uzbekistan - BLV TÁO GIÀ (HD) [U18 Châu Á]
+#EXTINF:-1 group-title="hoiquan",Ulaanbaatar vs Deren - BLV TÁO GIÀ (HD) [Premier League]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Thailand vs U18 Uzbekistan - BLV TÁO GIÀ (SD) [U18 Châu Á]
+#EXTINF:-1 group-title="hoiquan",Ulaanbaatar vs Deren - BLV TÁO GIÀ (SD) [Premier League]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Indonesia vs U18 Philippines - BLV PHAN CA (FHD) [U18 Châu Á]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Indonesia vs U18 Philippines - BLV PHAN CA (HD) [U18 Châu Á]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Indonesia vs U18 Philippines - BLV PHAN CA (SD) [U18 Châu Á]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (FHD) [Super League]
+#EXTINF:-1 group-title="hoiquan",Cracovia Krakow vs Başakşehir - BLV PHAN ANH (FHD) [Friendlies Clubs]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (HD) [Super League]
+#EXTINF:-1 group-title="hoiquan",Cracovia Krakow vs Başakşehir - BLV PHAN ANH (HD) [Friendlies Clubs]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Qingdao Youth Island vs SHANGHAI SIPG - BLV PHAN ANH (SD) [Super League]
+#EXTINF:-1 group-title="hoiquan",Cracovia Krakow vs Başakşehir - BLV PHAN ANH (SD) [Friendlies Clubs]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV PHAN QUẨY (FHD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Super Nova vs Ogre United - BLV PHAN CA (FHD) [Virsliga]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Super Nova vs Ogre United - BLV PHAN CA (HD) [Virsliga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Super Nova vs Ogre United - BLV PHAN CA (SD) [Virsliga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV PHAN QUẨY (FHD) [World Cup]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV PHAN QUẨY (HD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV PHAN QUẨY (HD) [World Cup]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV PHAN QUẨY (SD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV PHAN QUẨY (SD) [World Cup]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (FHD) [World Cup]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (HD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV THẦN THÔNG (SD) [World Cup]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (FHD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Brazil vs Norway - BLV LƯƠNG BỔNG (FHD) [World Cup]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (HD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Brazil vs Norway - BLV LƯƠNG BỔNG (HD) [World Cup]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Colombia vs Ghana - BLV LƯƠNG BỔNG (SD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Brazil vs Norway - BLV LƯƠNG BỔNG (SD) [World Cup]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Bencic B. vs Kalinskaya A - BLV PHAN BỐNG (FHD) [WTA500]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Bencic B. vs Kalinskaya A - BLV PHAN BỐNG (HD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Bencic B. vs Kalinskaya A - BLV PHAN BỐNG (SD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",A.Rinderknech - D.Jokovic - BLV PHAN HẢI (FHD) [ATP500]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",A.Rinderknech - D.Jokovic - BLV PHAN HẢI (HD) [ATP500]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",A.Rinderknech - D.Jokovic - BLV PHAN HẢI (SD) [ATP500]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV THẦN THÔNG (FHD) [World Cup]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV THẦN THÔNG (HD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV THẦN THÔNG (SD) [World Cup]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",Cooks Hill United - Valentine
-https://lilive1.eu.cc/live/888585deadaa89864676a17b60812933/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Naftan Novopolotsk - Dinamo Brest
-https://lilive1.eu.cc/live/401674183742d2c46a5312ff49ba3f39/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Canada - Morocco
+https://lilive1.eu.cc/live/b82c7343408bd83422695ff2bbb99203/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Londrina PR - CRB AL
+https://lilive1.eu.cc/live/312d52ab8291f962055832e4e0d22dbd/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Paraguay - France
+https://lilive1.eu.cc/live/b5e57ecc6df0cc6e65429ac518ffb455/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Pittsburgh Riverhounds - Brooklyn FC
+https://lilive1.eu.cc/live/8297b82309dcd36464f26d9583edea7d/playlist.m3u8
 
 #EXTGRP:xoilac
-#EXTINF:-1 group-title="xoilac",Australia vs Ai Cập  lúc 01:00 ngày 04/07/2026 - HD ROY
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c49a085aa05a360988d4f154474063c5&wsABSTime=1783119095|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel1
-#EXTINF:-1 group-title="xoilac",Argentina vs Cabo Verde lúc 05:00 ngày 04/07/2026 - HD NICK
-https://live2.pro2cdnlive.com/live/channel5.flv|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/8/link/channel5
-#EXTINF:-1 group-title="xoilac",Argentina vs Cabo Verde lúc 05:00 ngày 04/07/2026 - HD ROY
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=8d336d3118e8ddaa79e7a84b2531063a&wsABSTime=1783119117|Referer=https://xl365.buzzscorelinez.com/ajax/chanel/type/7/link/channel1
+#EXTINF:-1 group-title="xoilac",Canada vs Ma Rốc lúc 00:00 ngày 05/07/2026 - HD ROY
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001783186564-0-0-0a0879090bb9d458cf2e63bcf9e1a80f|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1/off-tvc
 
