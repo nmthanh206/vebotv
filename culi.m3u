@@ -1,6 +1,14 @@
 #EXTM3U
 
 #EXTGRP:video
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczyyz.tv/2026/07/photo_2026-07-06_06-44-44-1-768x533.jpg",Full Match: Mexico vs Anh (08:00 – 06/07)
+https://video.apisportpulse.com/2026/07/06/6ypq3nhvnkdzmd7-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczyyz.tv/2026/07/photo_2026-07-06_01-56-24-1-768x529.jpg",Full Match: Brazil vs Na Uy (03:00 – 06/07)
+https://video.apisportpulse.com/2026/07/06/8yomo4h14yjkq0j-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczyyz.tv/2026/07/photo_2026-07-05_02-50-54-1-768x516.jpg",Full Match: Paraguay vs Pháp (04:00 – 05/07)
+https://video.apisportpulse.com/2026/07/05/dj2ryohlx73vq1z-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczyyz.tv/2026/07/photo_2026-07-04_22-50-56-1-768x513.jpg",Full Match: Canada vs Ma Rốc (00:00 – 05/07)
+https://video.apisportpulse.com/2026/07/05/2y8m4zh5pvd3ql0-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.sa2020.org/2026/07/Screenshot-2026-07-04-103828.png",Full Match: Colombia vs Ghana (08:30 – 04/07)
 https://video.apisportpulse.com/2026/07/04/n54qllhnz448qvy-brady.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.sa2020.org/2026/07/photo_2026-07-04_05-03-52-1-768x484.jpg",Full Match: Argentina vs Cabo Verde (05:00 – 04/07)
@@ -177,6 +185,8 @@ https://video.apisportpulse.com/2026/06/13/dj2ryohlx70vq1z-roy.mp4
 https://video.apisportpulse.com/2026/06/12/6ypq3nhvnppnmd7-roy.mp4
 
 #EXTGRP:highlight
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilaczyyz.tv/2026/07/photo_2026-07-06_06-44-44-1.jpg",Mexico vs Anh (08:00 &#8211; 06/07) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/07/06/1783349909589/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilaczzccz.tv/2026/07/photo_2026-07-06_01-56-24-1.jpg",Brazil vs Na Uy (03:00 &#8211; 06/07) | Xem lại trận đấu
 https://highlight.thuckhuya1.net/2026/07/05/1783291784828/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilaczzccz.tv/2026/07/photo_2026-07-05_02-50-54-1.jpg",Paraguay vs Pháp (04:00 &#8211; 05/07) | Xem lại trận đấu
