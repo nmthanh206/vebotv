@@ -345,54 +345,66 @@ https://highlight.thuckhuya1.net/2026/06/12/1781300339919/index.m3u8
 https://highlight.thuckhuya1.net/2026/06/12/1781275189104/index.m3u8
 
 #EXTGRP:hoiquan
-#EXTINF:-1 group-title="hoiquan",Ulaanbaatar vs Deren - BLV TÁO GIÀ (FHD) [Premier League]
+#EXTINF:-1 group-title="hoiquan",U18 Hàn Quốc vs U18 Trung Quốc - BLV TÁO GIÀ (FHD) [U18 Châu Á]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Ulaanbaatar vs Deren - BLV TÁO GIÀ (HD) [Premier League]
+#EXTINF:-1 group-title="hoiquan",U18 Hàn Quốc vs U18 Trung Quốc - BLV TÁO GIÀ (HD) [U18 Châu Á]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Ulaanbaatar vs Deren - BLV TÁO GIÀ (SD) [Premier League]
+#EXTINF:-1 group-title="hoiquan",U18 Hàn Quốc vs U18 Trung Quốc - BLV TÁO GIÀ (SD) [U18 Châu Á]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Cracovia Krakow vs Başakşehir - BLV PHAN ANH (FHD) [Friendlies Clubs]
+#EXTINF:-1 group-title="hoiquan",The Town vs Sporting KC II - BLV PHAN ANH (FHD) [MLS Next Pro]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Cracovia Krakow vs Başakşehir - BLV PHAN ANH (HD) [Friendlies Clubs]
+#EXTINF:-1 group-title="hoiquan",The Town vs Sporting KC II - BLV PHAN ANH (HD) [MLS Next Pro]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Cracovia Krakow vs Başakşehir - BLV PHAN ANH (SD) [Friendlies Clubs]
+#EXTINF:-1 group-title="hoiquan",The Town vs Sporting KC II - BLV PHAN ANH (SD) [MLS Next Pro]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Super Nova vs Ogre United - BLV PHAN CA (FHD) [Virsliga]
+#EXTINF:-1 group-title="hoiquan",U18 Thái Lan vs U18 Nhật Bản - BLV PHAN CA (FHD) [U18 Châu Á]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Super Nova vs Ogre United - BLV PHAN CA (HD) [Virsliga]
+#EXTINF:-1 group-title="hoiquan",U18 Thái Lan vs U18 Nhật Bản - BLV PHAN CA (HD) [U18 Châu Á]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Super Nova vs Ogre United - BLV PHAN CA (SD) [Virsliga]
+#EXTINF:-1 group-title="hoiquan",U18 Thái Lan vs U18 Nhật Bản - BLV PHAN CA (SD) [U18 Châu Á]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV PHAN QUẨY (FHD) [World Cup]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV PHAN QUẨY (HD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV PHAN QUẨY (SD) [World Cup]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Brazil vs Norway - BLV LƯƠNG BỔNG (FHD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Flora Tallinn vs Saburtalo - BLV LƯƠNG BỔNG (FHD) [UEFA Champions League]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Brazil vs Norway - BLV LƯƠNG BỔNG (HD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Flora Tallinn vs Saburtalo - BLV LƯƠNG BỔNG (HD) [UEFA Champions League]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Brazil vs Norway - BLV LƯƠNG BỔNG (SD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Flora Tallinn vs Saburtalo - BLV LƯƠNG BỔNG (SD) [UEFA Champions League]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV THẦN THÔNG (FHD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Xi'an Ronghai vs Dalian Kewei - BLV PHAN QUẨY (FHD) [League Two]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Xi'an Ronghai vs Dalian Kewei - BLV PHAN QUẨY (HD) [League Two]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Xi'an Ronghai vs Dalian Kewei - BLV PHAN QUẨY (SD) [League Two]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",22h Dimitrov G. vs Fery A. - BLV PHAN BỐNG (FHD) [WTA500]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",22h Dimitrov G. vs Fery A. - BLV PHAN BỐNG (HD) [WTA500]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",22h Dimitrov G. vs Fery A. - BLV PHAN BỐNG (SD) [WTA500]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Langfang Glory City vs Jiangxi Liansheng - BLV PHAN MÃ (FHD) [League Two]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Langfang Glory City vs Jiangxi Liansheng - BLV PHAN MÃ (HD) [League Two]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Langfang Glory City vs Jiangxi Liansheng - BLV PHAN MÃ (SD) [League Two]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Sutjeska - BLV THẦN THÔNG (FHD) [UEFA Champions League]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV THẦN THÔNG (HD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Sutjeska - BLV THẦN THÔNG (HD) [UEFA Champions League]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Mexico vs England - BLV THẦN THÔNG (SD) [World Cup]
+#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Sutjeska - BLV THẦN THÔNG (SD) [UEFA Champions League]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",Canada - Morocco
-https://lilive1.eu.cc/live/b82c7343408bd83422695ff2bbb99203/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Londrina PR - CRB AL
-https://lilive1.eu.cc/live/312d52ab8291f962055832e4e0d22dbd/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Paraguay - France
-https://lilive1.eu.cc/live/b5e57ecc6df0cc6e65429ac518ffb455/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Pittsburgh Riverhounds - Brooklyn FC
-https://lilive1.eu.cc/live/8297b82309dcd36464f26d9583edea7d/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Super Nova - Ogre United
+https://lilive1.eu.cc/live/7a686132d9274618b16255cf927e5bf9/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Hacken - Djurgardens
+https://lilive1.eu.cc/live/e1dc09643e3d40f1cd069fa959baa6f6/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Portugal - Spain
+https://lilive1.eu.cc/live/abab152a04ddb5933ba820d47bd15cfb/playlist.m3u8
 
 #EXTGRP:xoilac
-#EXTINF:-1 group-title="xoilac",Canada vs Ma Rốc lúc 00:00 ngày 05/07/2026 - HD ROY
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001783186564-0-0-0a0879090bb9d458cf2e63bcf9e1a80f|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1/off-tvc
+#EXTINF:-1 group-title="xoilac",Bồ Đào Nha vs Tây Ban Nha lúc 02:00 ngày 07/07/2026 - HD ROY
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001783362570-0-0-3dc04c2b249073be83b8d705eb318103|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel1
+#EXTINF:-1 group-title="xoilac",Bồ Đào Nha vs Tây Ban Nha lúc 02:00 ngày 07/07/2026 - HD NICK
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001783362578-0-0-343ff0189b7813ce82133c50e6106db7|Referer=https://xlz.buzzscorelinez.com/ajax/chanel/type/5/link/channel5
 
