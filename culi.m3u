@@ -1,6 +1,12 @@
 #EXTM3U
 
 #EXTGRP:video
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.gnolia.com/2026/07/Anh-chup-man-hinh-2026-07-10-021326.png",Full Match: Pháp vs Ma Rốc (03:00 – 10/07)
+https://video.apisportpulse.com/2026/07/10/y0or5jh8o9djqwz-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.gnolia.com/2026/07/photo_2026-07-08_01-19-05-1-768x542.jpg",Full Match: Thụy Sĩ vs Colombia (03:00 – 08/07)
+https://video.apisportpulse.com/2026/07/08/x7lm7phj7xd5m2w-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.gnolia.com/2026/07/photo_2026-07-07_22-19-13-1-768x540.jpg",Full Match: Argentina vs Ai Cập  (23:00 – 07/07)
+https://video.apisportpulse.com/2026/07/07/vjxm8ghewkoxr6o-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.caribbeanbusiness.com/2026/07/photo_2026-07-07_05-37-10-1-768x497.jpg",Full Match: USA vs Bỉ (07:00 – 07/07)
 https://video.apisportpulse.com/2026/07/07/3glrw7hnp4ezqdy-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.caribbeanbusiness.com/2026/07/photo_2026-07-07_01-08-57-1-768x512.jpg",Full Match: Bồ Đào Nha vs Tây Ban Nha (02:00 – 07/07)
@@ -189,6 +195,10 @@ https://video.apisportpulse.com/2026/06/13/dj2ryohlx70vq1z-roy.mp4
 https://video.apisportpulse.com/2026/06/12/6ypq3nhvnppnmd7-roy.mp4
 
 #EXTGRP:highlight
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.gnolia.com/2026/07/photo_2026-07-08_01-19-05-1.jpg",Thụy Sĩ vs Colombia (03:00 &#8211; 08/07) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/07/07/1783467395535/index.m3u8
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.gnolia.com/2026/07/photo_2026-07-07_22-19-13-1.jpg",Argentina vs Ai Cập (23:00 &#8211; 07/07) | Xem lại trận đấu
+https://highlight.thuckhuya1.net/2026/07/07/1783451951492/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.caribbeanbusiness.com/2026/07/photo_2026-07-07_05-37-10-1.jpg",USA vs Bỉ (07:00 &#8211; 07/07) | Xem lại trận đấu
 https://highlight.thuckhuya1.net/2026/07/07/1783393756986/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.caribbeanbusiness.com/2026/07/photo_2026-07-07_01-08-57-1.jpg",Bồ Đào Nha vs Tây Ban Nha (02:00 &#8211; 07/07) | Xem lại trận đấu
@@ -363,66 +373,46 @@ https://highlight.thuckhuya1.net/2026/06/12/1781300339919/index.m3u8
 https://highlight.thuckhuya1.net/2026/06/12/1781275189104/index.m3u8
 
 #EXTGRP:hoiquan
-#EXTINF:-1 group-title="hoiquan",The Town vs Sporting KC II - BLV PHAN ANH (FHD) [MLS Next Pro]
+#EXTINF:-1 group-title="hoiquan",Sport Recife vs Botafogo SP - BLV PHAN ANH (FHD) [Serie B]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",The Town vs Sporting KC II - BLV PHAN ANH (HD) [MLS Next Pro]
+#EXTINF:-1 group-title="hoiquan",Sport Recife vs Botafogo SP - BLV PHAN ANH (HD) [Serie B]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",The Town vs Sporting KC II - BLV PHAN ANH (SD) [MLS Next Pro]
+#EXTINF:-1 group-title="hoiquan",Sport Recife vs Botafogo SP - BLV PHAN ANH (SD) [Serie B]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Alay vs Toktogul - BLV PHAN CA (FHD) [Premier League]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Alay vs Toktogul - BLV PHAN CA (HD) [Premier League]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Alay vs Toktogul - BLV PHAN CA (SD) [Premier League]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Hàn Quốc vs U18 Trung Quốc - BLV TÁO GIÀ (FHD) [U18 Châu Á]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Hàn Quốc vs U18 Trung Quốc - BLV TÁO GIÀ (HD) [U18 Châu Á]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",U18 Hàn Quốc vs U18 Trung Quốc - BLV TÁO GIÀ (SD) [U18 Châu Á]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Langfang Glory City vs Jiangxi Liansheng - BLV PHAN MÃ (FHD) [League Two]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Langfang Glory City vs Jiangxi Liansheng - BLV PHAN MÃ (HD) [League Two]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Langfang Glory City vs Jiangxi Liansheng - BLV PHAN MÃ (SD) [League Two]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Flora Tallinn vs Saburtalo - BLV LƯƠNG BỔNG (FHD) [UEFA Champions League]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Flora Tallinn vs Saburtalo - BLV LƯƠNG BỔNG (HD) [UEFA Champions League]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Flora Tallinn vs Saburtalo - BLV LƯƠNG BỔNG (SD) [UEFA Champions League]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Sutjeska - BLV THẦN THÔNG (FHD) [UEFA Champions League]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Sutjeska - BLV THẦN THÔNG (HD) [UEFA Champions League]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Kairat Almaty vs Sutjeska - BLV THẦN THÔNG (SD) [UEFA Champions League]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Xi'an Ronghai vs Dalian Kewei - BLV PHAN QUẨY (FHD) [League Two]
+#EXTINF:-1 group-title="hoiquan",Shanghai Shenhua vs Beijing Guoan - BLV PHAN QUẨY (FHD) [Super League]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Xi'an Ronghai vs Dalian Kewei - BLV PHAN QUẨY (HD) [League Two]
+#EXTINF:-1 group-title="hoiquan",Shanghai Shenhua vs Beijing Guoan - BLV PHAN QUẨY (HD) [Super League]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Xi'an Ronghai vs Dalian Kewei - BLV PHAN QUẨY (SD) [League Two]
+#EXTINF:-1 group-title="hoiquan",Shanghai Shenhua vs Beijing Guoan - BLV PHAN QUẨY (SD) [Super League]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Linda Noskova - Elise Mertens - BLV PHAN BỐNG (FHD) [WTA500]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Linda Noskova - Elise Mertens - BLV PHAN BỐNG (HD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Linda Noskova - Elise Mertens - BLV PHAN BỐNG (SD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Kostyuk - Paolini - BLV PHAN HẢI (FHD) [WTA500]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="hoiquan",Kostyuk - Paolini - BLV PHAN HẢI (HD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="hoiquan",Kostyuk - Paolini - BLV PHAN HẢI (SD) [WTA500]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Turku PS vs AC Oulu - BLV PHAN CA (FHD) [Veikkausliiga]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Turku PS vs AC Oulu - BLV PHAN CA (HD) [Veikkausliiga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Turku PS vs AC Oulu - BLV PHAN CA (SD) [Veikkausliiga]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Dinamo Brest vs Slavia Mozyr - BLV TÁO GIÀ (FHD) [Premier League]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Dinamo Brest vs Slavia Mozyr - BLV TÁO GIÀ (HD) [Premier League]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Dinamo Brest vs Slavia Mozyr - BLV TÁO GIÀ (SD) [Premier League]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Lahti vs HJK Helsinki - BLV LƯƠNG BỔNG (FHD) [Veikkausliiga]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Lahti vs HJK Helsinki - BLV LƯƠNG BỔNG (HD) [Veikkausliiga]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Lahti vs HJK Helsinki - BLV LƯƠNG BỔNG (SD) [Veikkausliiga]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Ulsan Hyundai FC vs Jeonbuk Motors - BLV THẦN THÔNG (FHD) [K League 1]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="hoiquan",Ulsan Hyundai FC vs Jeonbuk Motors - BLV THẦN THÔNG (HD) [K League 1]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="hoiquan",Ulsan Hyundai FC vs Jeonbuk Motors - BLV THẦN THÔNG (SD) [K League 1]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",Hwacheon KSPO WFC - Suwon FC Women
-https://lilive1.eu.cc/live/8aca5855c98c49c0c0b6c9bc7f0010b4/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Drukpa FC - Thimphu Raven FC
-https://lilive1.eu.cc/live/a517a7bbef9c073b8ccca04ca8ea1ca0/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Nacional Potosi - Aurora
+https://lilive1.eu.cc/live/4a91dc9d0d1f02d6256c70e6e0d1d6b8/playlist.m3u8
 
 #EXTGRP:xoilac
 #EXTINF:-1 group-title="xoilac",Argentina vs Ai Cập  lúc 23:00 ngày 07/07/2026 - HD ROY
