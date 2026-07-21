@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTGRP:video
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacxtm.tv/2026/07/photo_2026-07-20_02-58-15-1-768x512.jpg",Full Match: Tây Ban Nha vs Argentina (02:00 – 20/07)
+https://video.apisportpulse.com/2026/07/20/965mkyhko89wr1g-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacxyp.io/2026/07/Anh-chup-man-hinh-2026-07-19-033156-1-768x461.png",Full Match: Pháp vs Anh (04:00 – 19/07)
 https://video.apisportpulse.com/2026/07/19/ednm9whw05l5ryo-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacxyp.io/2026/07/Anh-chup-man-hinh-2026-07-19-001507-1.png",Full Match: Việt Nam vs Myanmar (19:00 – 18/07)
@@ -209,6 +211,8 @@ https://video.apisportpulse.com/2026/06/13/dj2ryohlx70vq1z-roy.mp4
 https://video.apisportpulse.com/2026/06/12/6ypq3nhvnppnmd7-roy.mp4
 
 #EXTGRP:highlight
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.malaysiandigest.com/2026/07/photo_2026-07-20_02-58-15-1.jpg",Tây Ban Nha vs Argentina (02:00 &#8211; 20/07) | Xem lại trận đấu
+https://cdn.videas.fr/v-medias/s5/hlsv1/97/8a/978aafc3-91cf-439e-a8ce-23900b5b6f33/1080p.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.secondnexus.com/2026/07/photo_2026-07-11_00-54-36-1.jpg",Tây Ban Nha vs Bỉ (02:00 &#8211; 11/07) | Xem lại trận đấu
 https://highlight.thuckhuya1.net/2026/07/10/1783722546374/index.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.secondnexus.com/2026/07/Anh-chup-man-hinh-2026-07-10-021326.png",Pháp vs Ma Rốc (03:00 &#8211; 10/07) | Xem lại trận đấu
@@ -435,10 +439,10 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTGRP:tieulam
-#EXTINF:-1 group-title="tieulam",FC Universitatea Cluj - Farul Constanta
-https://lilive1.eu.cc/live/f7e8691bfa5d320d7b872a1fd4c82a69/playlist.m3u8
-#EXTINF:-1 group-title="tieulam",Independiente del Valle - Club Sport Emelec
-https://lilive1.eu.cc/live/63d30f50ca52c891344ef4fc92d345c5/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Chongqing Tonglianglong - Qingdao West Coast
+https://lilive1.eu.cc/live/6591b771b6ca58b4dc4a053472d4aff8/playlist.m3u8
+#EXTINF:-1 group-title="tieulam",Cruz Azul - Puebla
+https://lilive1.eu.cc/live/45de87f9d2414833250e975839af0d48/playlist.m3u8
 
 #EXTGRP:xoilac
 #EXTINF:-1 group-title="xoilac",Tây Ban Nha vs Argentina lúc 02:00 ngày 20/07/2026 - HD ROY
