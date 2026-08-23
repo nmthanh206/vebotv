@@ -16,7 +16,7 @@ https://s6.kkphimplayer6.com/20260131/CbHjy8Qm/index.m3u8
 #EXTINF:-1, Thám Tử Kiên
 https://s6.kkphimplayer6.com/20251010/86AEDncn/index.m3u8
 #EXTINF:-1, Mang Mẹ Đi Bỏ
-https://vip.opstream90.com/20251129/18758_e33bdf72/index.m3u8
+https://cdn.phimhayok.net/filmhayok/hls/6a5cb872964130b469bf2dc8/20260719182254/playlist.m3u8
 #EXTINF:-1, Tee Yod: Quỷ ăn tạng 1
 https://s3.phim1280.tv/20240411/VjV5ECNY/index.m3u8
 #EXTINF:-1, Tee Yod: Quỷ ăn tạng 2
