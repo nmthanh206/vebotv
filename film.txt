@@ -33,3 +33,5 @@ https://vn-motchill.com/wp-admin/admin-ajax.php?action=get_content&id=15510&epis
 https://vip.opstream90.com/20260218/25329_6a639c52/3000k/hls/mixed.m3u8
 EXTINF:-1, Anh Hùng
 https://v7.kkphimplayer7.com/20260821/1tcAZTSo/index.m3u8
+EXTINF:-1, Mặc vũ vân gian tập 1
+https://vip.opstream17.com/20240602/9881_561126eb/index.m3u8
