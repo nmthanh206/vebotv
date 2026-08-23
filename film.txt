@@ -35,3 +35,5 @@ https://vip.opstream90.com/20260218/25329_6a639c52/3000k/hls/mixed.m3u8
 https://v7.kkphimplayer7.com/20260821/1tcAZTSo/index.m3u8
 #EXTINF:-1, Mặc vũ vân gian tập 1
 https://vip.opstream17.com/20240602/9881_561126eb/index.m3u8
+#EXTINF:-1, Quỷ cẩu
+https://cdn.phimhayok.net/filmhayok/hls/6a5881edd969263e6d91b72c/20260716073123/quy-cau/playlist.m3u8
