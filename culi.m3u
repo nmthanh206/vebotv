@@ -1,6 +1,30 @@
 #EXTM3U
 
 #EXTGRP:video
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-25-003506-1-768x505.png",Full Match: Malaga vs Dep. La Coruna (02:30 – 25/08)
+https://video.apisportpulse.com/2026/08/25/1l4rjnh90k8km7v-johan.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-25-000332-1-768x523.png",Full Match: Fulham vs Chelsea (02:00 – 25/08)
+https://video.apisportpulse.com/2026/08/25/l7oqdehgzkyor51-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-24-235243-1-768x505.png",Full Match: AS Roma vs Fiorentina (01:45 – 25/08)
+https://video.apisportpulse.com/2026/08/25/4jwq2ghnd4wdm0v-max.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/1231-1-1-768x510.png",Full Match: Osasuna vs Levante (00:30 – 25/08)
+https://video.apisportpulse.com/2026/08/25/4jwq2ghnj781m0v-ken.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-24-234421-1-1-768x432.png",Full Match: Bologna vs Lazio (23:30 – 24/08)
+https://video.apisportpulse.com/2026/08/24/6ypq3nhvd093md7-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-24-001226-1-768x515.png",Full Match: Elche CF vs Barcelona (02:30 – 24/08)
+https://video.apisportpulse.com/2026/08/24/n54qllhn6jleqvy-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-23-234605-1-768x454.png",Full Match: Atalanta vs Sassuolo (01:45 – 24/08)
+https://video.apisportpulse.com/2026/08/24/k82rekhgdve7rep-max.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-23-235640-1-768x455.png",Full Match: Torino vs AC Milan (01:45 – 24/08)
+https://video.apisportpulse.com/2026/08/24/2y8m4zh5d3ezql0-brady.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-24-001508-1-768x511.png",Full Match: Rennes vs PSG (01:45 – 24/08)
+https://video.apisportpulse.com/2026/08/24/dn1m1ghld8e5moe-nick.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-23-235222-1-768x511.png",Full Match: Getafe vs Racing Santander (00:30 – 24/08)
+https://video.apisportpulse.com/2026/08/24/zp5rzghg9xnpq82-tom.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-24-002252-1-768x510.png",Full Match: Newcastle United vs Liverpool (22:30 – 23/08)
+https://video.apisportpulse.com/2026/08/23/4wyrn4h61nz2q86-roy.mp4
+#EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-23-234214-1-768x510.png",Full Match: Le Havre FC vs AS Monaco (22:15 – 23/08)
+https://video.apisportpulse.com/2026/08/23/318q66hxd4p6qo9-brady.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacxtm.tv/2026/07/photo_2026-07-20_02-58-15-1-768x512.jpg",Full Match: Tây Ban Nha vs Argentina (02:00 – 20/07)
 https://video.apisportpulse.com/2026/07/20/965mkyhko89wr1g-roy.mp4
 #EXTINF:-1 group-title="video" tvg-logo="https://cdn.xoilacxyp.io/2026/07/Anh-chup-man-hinh-2026-07-19-033156-1-768x461.png",Full Match: Pháp vs Anh (04:00 – 19/07)
@@ -211,6 +235,10 @@ https://video.apisportpulse.com/2026/06/13/dj2ryohlx70vq1z-roy.mp4
 https://video.apisportpulse.com/2026/06/12/6ypq3nhvnppnmd7-roy.mp4
 
 #EXTGRP:highlight
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/Anh-chup-man-hinh-2026-08-24-235243-1.png",AS Roma vs Fiorentina (01:45 &#8211; 25/08) | Xem lại trận đấu
+https://cdn.videas.fr/v-medias/s5/hlsv1/bb/ef/bbef482a-12f1-4701-a0f9-4f4a1f2a4133/1080p.m3u8
+#EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.xoilaczznnz.tv/2026/08/1231-1-1.png",Osasuna vs Levante (00:30 &#8211; 25/08) | Xem lại trận đấu
+https://cdn.videas.fr/v-medias/s5/hlsv1/f7/02/f702913c-3de9-4795-adb0-ee98563de4ea/1080p.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.malaysiandigest.com/2026/07/photo_2026-07-20_02-58-15-1.jpg",Tây Ban Nha vs Argentina (02:00 &#8211; 20/07) | Xem lại trận đấu
 https://cdn.videas.fr/v-medias/s5/hlsv1/97/8a/978aafc3-91cf-439e-a8ce-23900b5b6f33/1080p.m3u8
 #EXTINF:-1 group-title="highlight" tvg-logo="https://cdn.secondnexus.com/2026/07/photo_2026-07-11_00-54-36-1.jpg",Tây Ban Nha vs Bỉ (02:00 &#8211; 11/07) | Xem lại trận đấu
