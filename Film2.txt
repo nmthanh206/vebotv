@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 1
+https://v7.kkphimplayer7.com/20260626/XDh302cJ/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 2
+https://v7.kkphimplayer7.com/20260627/BhTG32Dy/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 3
+https://v7.kkphimplayer7.com/20260703/csWWxkWL/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 4
+https://v7.kkphimplayer7.com/20260704/EnTnmvMI/index.m3u8
