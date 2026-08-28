@@ -7,3 +7,17 @@ https://v7.kkphimplayer7.com/20260627/BhTG32Dy/index.m3u8
 https://v7.kkphimplayer7.com/20260703/csWWxkWL/index.m3u8
 #EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 4
 https://v7.kkphimplayer7.com/20260704/EnTnmvMI/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 5
+https://v7.kkphimplayer7.com/20260710/TPUySCJa/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 6
+https://v7.kkphimplayer7.com/20260711/x2Eya2cu/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 7
+https://v7.kkphimplayer7.com/20260717/5VkCaX2Q/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 8
+https://v7.kkphimplayer7.com/20260718/7mTfh7DV/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 9
+https://v7.kkphimplayer7.com/20260724/dMYoRbu5/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 10
+https://v7.kkphimplayer7.com/20260725/zY4iLwhX/index.m3u8
+#EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 11
+https://v8.streamvsmov.com/stream/98a3d76c-498e-4ee0-aee3-a9f0f793df88/master.m3u8
