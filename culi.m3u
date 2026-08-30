@@ -473,10 +473,14 @@ https://lilive1.eu.cc/live/6591b771b6ca58b4dc4a053472d4aff8/playlist.m3u8
 https://lilive1.eu.cc/live/45de87f9d2414833250e975839af0d48/playlist.m3u8
 
 #EXTGRP:xoilac
-#EXTINF:-1 group-title="xoilac",Việt Nam vs Thái Lan lúc 20:00 ngày 26/08/2026 - HD ROY
-https://push2.m3u8delivery.com/livecdn/channel-1.flv?auth_key=3000001787746308-0-0-c541761ec5f48c02f7735c2f06a95ea9|Referer=https://xlz.livecarriercdn.com/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false
-#EXTINF:-1 group-title="xoilac",Việt Nam vs Thái Lan lúc 20:00 ngày 26/08/2026 - HD NICK
-https://push2.m3u8delivery.com/livecdn/channel-5.flv?auth_key=3000001787746317-0-0-36dce506b8bbc9efa573265dfaa3c5cf|Referer=https://xlz.livecarriercdn.com/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false
+#EXTINF:-1 group-title="xoilac",Chelsea vs Brighton lúc 20:00 ngày 30/08/2026 - HD ROY
+https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001788094574-0-0-a49b70e6d7cda018d83bea42039acd59|Referer=https://xlz.m3u8delivery.com/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false
+#EXTINF:-1 group-title="xoilac",Chelsea vs Brighton lúc 20:00 ngày 30/08/2026 - HD ASTRA
+https://live.mediafreightnet.com/live/channel11.flv|Referer=https://xlz.m3u8delivery.com/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false
+#EXTINF:-1 group-title="xoilac",Manchester United vs Ipswich Town lúc 22:30 ngày 30/08/2026 - HD ROY
+https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=0d37be44ac9e9107ce9a7bd9fd0f514e&wsABSTime=1788137789|Referer=https://xlz.m3u8delivery.com/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false
+#EXTINF:-1 group-title="xoilac",Manchester United vs Ipswich Town lúc 22:30 ngày 30/08/2026 - HD RIO
+https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001788094593-0-0-59228ecd48b18625cc6402ab934417be|Referer=https://xlz.m3u8delivery.com/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false
 
 #EXTGRP:live
 #EXTINF:-1 group-title="live",viet-nam-vs-campuchia-luc-2000-ngay-07-08-2026
