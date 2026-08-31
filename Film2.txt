@@ -21,3 +21,23 @@ https://v7.kkphimplayer7.com/20260724/dMYoRbu5/index.m3u8
 https://v7.kkphimplayer7.com/20260725/zY4iLwhX/index.m3u8
 #EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 11
 https://v8.streamvsmov.com/stream/98a3d76c-498e-4ee0-aee3-a9f0f793df88/master.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 1
+https://v7.kkphimplayer7.com/20260828/ogOBXoXd/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 2
+https://v7.kkphimplayer7.com/20260828/BM9BiQGL/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 3
+https://v7.kkphimplayer7.com/20260828/7c6Vrg8i/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 4
+https://v7.kkphimplayer7.com/20260828/suzENGYk/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 5
+https://v7.kkphimplayer7.com/20260828/juMusTbL/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 6
+https://v7.kkphimplayer7.com/20260828/X73IHGac/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 7
+https://v7.kkphimplayer7.com/20260828/Rs12DXm9/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 8
+https://v7.kkphimplayer7.com/20260828/lJ0hVqYx/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 9
+https://v7.kkphimplayer7.com/20260828/F1Ab8wFv/index.m3u8
+#EXTINF:-1 group-title="Mousestrap",Tập 10
+https://v7.kkphimplayer7.com/20260828/q5tJ8xrA/index.m3u8
