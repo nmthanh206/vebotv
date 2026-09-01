@@ -21,6 +21,7 @@ https://v7.kkphimplayer7.com/20260724/dMYoRbu5/index.m3u8
 https://v7.kkphimplayer7.com/20260725/zY4iLwhX/index.m3u8
 #EXTINF:-1 group-title="Đặt vụ tái khởi",Tập 11
 https://v8.streamvsmov.com/stream/98a3d76c-498e-4ee0-aee3-a9f0f793df88/master.m3u8
+
 #EXTINF:-1 group-title="Mousestrap",Tập 1
 https://v7.kkphimplayer7.com/20260828/ogOBXoXd/index.m3u8
 #EXTINF:-1 group-title="Mousestrap",Tập 2
@@ -41,3 +42,12 @@ https://v7.kkphimplayer7.com/20260828/lJ0hVqYx/index.m3u8
 https://v7.kkphimplayer7.com/20260828/F1Ab8wFv/index.m3u8
 #EXTINF:-1 group-title="Mousestrap",Tập 10
 https://v7.kkphimplayer7.com/20260828/q5tJ8xrA/index.m3u8
+
+#EXTINF:-1 group-title="Taxi Driver 1",Tập 1
+https://www.1phim26.com/pmm2/a7aa2459226ed4821c3cdc0370ed2ea4.m3u8
+#EXTINF:-1 group-title="Taxi Driver 1",Tập 2
+https://www.1phim26.com/pmm2/d0f116e1faf9d5a776bbf870333c8362.m3u8
+#EXTINF:-1 group-title="Taxi Driver 1",Tập 3
+https://www.1phim26.com/pmm2/adfde41c05f6020f8db31b4bade7d28b.m3u8
+#EXTINF:-1 group-title="Taxi Driver 1",Tập 4
+https://www.1phim26.com/pmm2/96be3fc9eb5fdc44f2ac05e8a45f2440.m3u8
