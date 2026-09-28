@@ -39,3 +39,5 @@ https://vip.opstream17.com/20240602/9881_561126eb/index.m3u8
 https://cdn.phimhayok.net/filmhayok/hls/6a5881edd969263e6d91b72c/20260716073123/quy-cau/playlist.m3u8
 #EXTINF:-1, Kong: Skull Islan
 https://cdn.phimhayok.net/filmhayok/episode/20260817/6a837482000826b5bd4ca578/playlist.m3u8
+#EXTINF:-1, Thiên đường máu
+https://s6.kkphimplayer6.com/20260320/02bq9QLy/3500kb/hls/index.m3u8
