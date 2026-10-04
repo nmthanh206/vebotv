@@ -1,0 +1,72 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="VOV1" tvg-name="VOV1" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV1 - Thời Sự
+https://tfzu0gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov1.m3u8
+
+#EXTINF:-1 tvg-id="VOV2" tvg-name="VOV2" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV2 - Văn Hóa Xã Hội
+https://tfzu0gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8
+
+#EXTINF:-1 tvg-id="VOV3" tvg-name="VOV3" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV3 - Âm Nhạc & Giải Trí
+https://tfzu0gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8
+
+#EXTINF:-1 tvg-id="VOVFM89" tvg-name="VOV FM89" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV FM89 - Sức Khỏe & Giao Thông
+https://str.vov.gov.vn/vovlive/vovFM89.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VOV5" tvg-name="VOV5" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV5 - Hệ Phát Thanh Đối Ngoại
+https://tfzu0gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov5.m3u8
+
+#EXTINF:-1 tvg-id="VOV247" tvg-name="VOV 24/7" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV 24/7 - Kênh Chuyên Biệt
+https://tfzu0gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov24_7.m3u8
+
+#EXTINF:-1 tvg-id="VOVGTHN" tvg-name="VOV GT Ha Noi" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV Giao Thông - Hà Nội
+https://tfzu0gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
+
+#EXTINF:-1 tvg-id="VOVGTHCM" tvg-name="VOV GT TP.HCM" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV Giao Thông - TP.HCM
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w581814532.m3u8
+
+#EXTINF:-1 tvg-id="VOVGTMEKONG" tvg-name="VOV GT MeKong" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV Giao Thông - MeKong
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w233200360.m3u8
+
+#EXTINF:-1 tvg-id="VOV4MIENTRUNG" tvg-name="VOV4 Mien Trung" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV4 - Miền Trung
+https://str.vov.gov.vn/vovlive/vov4.MienTrung.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VOV4TAYBAC" tvg-name="VOV4 Tay Bac" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV4 - Tây Bắc
+https://str.vov.gov.vn/vovlive/vov4.TayBac.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VOV4HCM" tvg-name="VOV4 TP.HCM" tvg-logo="https://vov.vn/favicon.ico" group-title="Radio Vietnam" radio="true", VOV4 - TP.HCM
+https://str.vov.gov.vn/vovlive/vov4.HCM.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZING_CHAM" tvg-name="Cham Radio" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - Chạm Radio
+https://vnso-pt-64-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_VPOP" tvg-name="V-Pop" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - V-Pop
+https://vnso-cm-15-tf-multi-playlist-zmp3.zmdcdn.me/JB2zPitWC-s/zhls/playback-realtime/audio/6ddadf76e3330a6d5322/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_BOLERO" tvg-name="Bolero" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - Bolero
+https://vnso-cm-15-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_USUK" tvg-name="US-UK" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - US-UK
+https://vnso-tt-15-tf-multi-playlist-zmp3.zmdcdn.me/5k37-bBNjIU/zhls/playback-realtime/audio/f49e38320477ed29b466/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_KPOP" tvg-name="K-Pop" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - K-Pop
+https://vnso-pt-65-tf-multi-playlist-zmp3.zmdcdn.me/XoQlAlw4O08/zhls/playback-realtime/audio/6600baac86e96fb736f8/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_ACOUSTIC" tvg-name="Acoustic" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - Acoustic
+https://vnso-cm-16-tf-multi-playlist-zmp3.zmdcdn.me/4TX5Vj5v__E/zhls/playback-realtime/audio/9b7b55d7699280ccd983/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_RAPVIET" tvg-name="Rap Viet" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - Rap Việt
+https://vnso-cm-15-tf-multi-playlist-zmp3.zmdcdn.me/7k45_gFb6I8/zhls/playback-realtime/audio/cef1015d3d18d4468d09/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_EDM" tvg-name="EDM" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - EDM
+https://vnso-cm-16-tf-multi-playlist-zmp3.zmdcdn.me/AkjPOEj66pI/zhls/playback-realtime/audio/7386bb2a876f6e31377e/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_CPOP" tvg-name="C-Pop" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - C-Pop
+https://vnso-cm-16-tf-multi-playlist-zmp3.zmdcdn.me/nDOW7B2Y4NI/zhls/playback-realtime/audio/97b35e1f625a8b04d24b/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_INSTRUMENTAL" tvg-name="Nhac Khong Loi" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - Nhạc Không Lời
+https://vnso-cm-16-tf-multi-playlist-zmp3.zmdcdn.me/KOY-wvc-pKE/zhls/playback-realtime/audio/1f36d59ae9df008159ce/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_INDIE" tvg-name="Indie" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - Indie
+https://vnso-cm-10-tf-multi-playlist-zmp3.zmdcdn.me/uma6ByWhxq4/zhls/playback-realtime/audio/eeff2a531616ff48a607/audio.m3u8
+
+#EXTINF:-1 tvg-id="ZING_KIDS" tvg-name="Thieu Nhi" tvg-logo="https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/favicon.ico" group-title="Zing MP3" radio="true", Zing MP3 - Thiếu Nhi
+https://vnso-cm-16-tf-multi-playlist-zmp3.zmdcdn.me/vONRm_dVkR0/zhls/playback-realtime/audio/ef512afd16b8ffe6a6a9/audio.m3u8
