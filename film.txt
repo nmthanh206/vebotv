@@ -41,3 +41,5 @@ https://cdn.phimhayok.net/filmhayok/episode/20260817/6a837482000826b5bd4ca578/pl
 https://s6.kkphimplayer6.com/20260320/02bq9QLy/3500kb/hls/index.m3u8
 #EXTINF:-1, Truy tìm long diên hương
 https://s6.kkphimplayer6.com/20260305/IkUyujRw/index.m3u8
+#EXTINF:-1, Được ăn cả ngã về không
+https://v13.streamvsmov.com/stream/55215e04-0433-4385-8814-a78fde6d84ca/master.m3u8
